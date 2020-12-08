@@ -1,0 +1,357 @@
+[
+	{
+		"ID" : 1,
+		"code" : "ACURA",
+		"name" : "Acura"
+	},
+	{
+		"ID" : 2,
+		"code" : "ALFA",
+		"name" : "Alfa Romeo"
+	},
+	{
+		"ID" : 3,
+		"code" : "AMC",
+		"name" : "AMC"
+	},
+	{
+		"ID" : 4,
+		"code" : "ASTON",
+		"name" : "Aston Martin"
+	},
+	{
+		"ID" : 5,
+		"code" : "AUDI",
+		"name" : "Audi"
+	},
+	{
+		"ID" : 6,
+		"code" : "AVANTI",
+		"name" : "Avanti"
+	},
+	{
+		"ID" : 7,
+		"code" : "BENTL",
+		"name" : "Bentley"
+	},
+	{
+		"ID" : 8,
+		"code" : "BMW",
+		"name" : "BMW"
+	},
+	{
+		"ID" : 9,
+		"code" : "BUICK",
+		"name" : "Buick"
+	},
+	{
+		"ID" : 10,
+		"code" : "CAD",
+		"name" : "Cadillac"
+	},
+	{
+		"ID" : 11,
+		"code" : "CHEV",
+		"name" : "Chevrolet"
+	},
+	{
+		"ID" : 12,
+		"code" : "CHRY",
+		"name" : "Chrysler"
+	},
+	{
+		"ID" : 13,
+		"code" : "DAEW",
+		"name" : "Daewoo"
+	},
+	{
+		"ID" : 14,
+		"code" : "DAIHAT",
+		"name" : "Daihatsu"
+	},
+	{
+		"ID" : 15,
+		"code" : "DATSUN",
+		"name" : "Datsun"
+	},
+	{
+		"ID" : 16,
+		"code" : "DELOREAN",
+		"name" : "DeLorean"
+	},
+	{
+		"ID" : 17,
+		"code" : "DODGE",
+		"name" : "Dodge"
+	},
+	{
+		"ID" : 18,
+		"code" : "EAGLE",
+		"name" : "Eagle"
+	},
+	{
+		"ID" : 19,
+		"code" : "FER",
+		"name" : "Ferrari"
+	},
+	{
+		"ID" : 20,
+		"code" : "FIAT",
+		"name" : "FIAT"
+	},
+	{
+		"ID" : 21,
+		"code" : "FISK",
+		"name" : "Fisker"
+	},
+	{
+		"ID" : 22,
+		"code" : "FORD",
+		"name" : "Ford"
+	},
+	{
+		"ID" : 23,
+		"code" : "FREIGHT",
+		"name" : "Freightliner"
+	},
+	{
+		"ID" : 24,
+		"code" : "GEO",
+		"name" : "Geo"
+	},
+	{
+		"ID" : 25,
+		"code" : "GMC",
+		"name" : "GMC"
+	},
+	{
+		"ID" : 26,
+		"code" : "HONDA",
+		"name" : "Honda"
+	},
+	{
+		"ID" : 27,
+		"code" : "AMGEN",
+		"name" : "HUMMER"
+	},
+	{
+		"ID" : 28,
+		"code" : "HYUND",
+		"name" : "Hyundai"
+	},
+	{
+		"ID" : 29,
+		"code" : "INFIN",
+		"name" : "Infiniti"
+	},
+	{
+		"ID" : 30,
+		"code" : "ISU",
+		"name" : "Isuzu"
+	},
+	{
+		"ID" : 31,
+		"code" : "JAG",
+		"name" : "Jaguar"
+	},
+	{
+		"ID" : 32,
+		"code" : "JEEP",
+		"name" : "Jeep"
+	},
+	{
+		"ID" : 33,
+		"code" : "KIA",
+		"name" : "Kia"
+	},
+	{
+		"ID" : 34,
+		"code" : "LAM",
+		"name" : "Lamborghini"
+	},
+	{
+		"ID" : 35,
+		"code" : "LAN",
+		"name" : "Lancia"
+	},
+	{
+		"ID" : 36,
+		"code" : "ROV",
+		"name" : "Land Rover"
+	},
+	{
+		"ID" : 37,
+		"code" : "LEXUS",
+		"name" : "Lexus"
+	},
+	{
+		"ID" : 38,
+		"code" : "LINC",
+		"name" : "Lincoln"
+	},
+	{
+		"ID" : 39,
+		"code" : "LOTUS",
+		"name" : "Lotus"
+	},
+	{
+		"ID" : 40,
+		"code" : "MAS",
+		"name" : "Maserati"
+	},
+	{
+		"ID" : 41,
+		"code" : "MAYBACH",
+		"name" : "Maybach"
+	},
+	{
+		"ID" : 42,
+		"code" : "MAZDA",
+		"name" : "Mazda"
+	},
+	{
+		"ID" : 43,
+		"code" : "MCLAREN",
+		"name" : "McLaren"
+	},
+	{
+		"ID" : 44,
+		"code" : "MB",
+		"name" : "Mercedes-Benz"
+	},
+	{
+		"ID" : 45,
+		"code" : "MERC",
+		"name" : "Mercury"
+	},
+	{
+		"ID" : 46,
+		"code" : "MERKUR",
+		"name" : "Merkur"
+	},
+	{
+		"ID" : 47,
+		"code" : "MINI",
+		"name" : "MINI"
+	},
+	{
+		"ID" : 48,
+		"code" : "MIT",
+		"name" : "Mitsubishi"
+	},
+	{
+		"ID" : 49,
+		"code" : "NISSAN",
+		"name" : "Nissan"
+	},
+	{
+		"ID" : 50,
+		"code" : "OLDS",
+		"name" : "Oldsmobile"
+	},
+	{
+		"ID" : 51,
+		"code" : "PEUG",
+		"name" : "Peugeot"
+	},
+	{
+		"ID" : 52,
+		"code" : "PLYM",
+		"name" : "Plymouth"
+	},
+	{
+		"ID" : 53,
+		"code" : "PONT",
+		"name" : "Pontiac"
+	},
+	{
+		"ID" : 54,
+		"code" : "POR",
+		"name" : "Porsche"
+	},
+	{
+		"ID" : 55,
+		"code" : "RAM",
+		"name" : "RAM"
+	},
+	{
+		"ID" : 56,
+		"code" : "REN",
+		"name" : "Renault"
+	},
+	{
+		"ID" : 57,
+		"code" : "RR",
+		"name" : "Rolls-Royce"
+	},
+	{
+		"ID" : 58,
+		"code" : "SAAB",
+		"name" : "Saab"
+	},
+	{
+		"ID" : 59,
+		"code" : "SATURN",
+		"name" : "Saturn"
+	},
+	{
+		"ID" : 60,
+		"code" : "SCION",
+		"name" : "Scion"
+	},
+	{
+		"ID" : 61,
+		"code" : "SMART",
+		"name" : "smart"
+	},
+	{
+		"ID" : 62,
+		"code" : "SRT",
+		"name" : "SRT"
+	},
+	{
+		"ID" : 63,
+		"code" : "STERL",
+		"name" : "Sterling"
+	},
+	{
+		"ID" : 64,
+		"code" : "SUB",
+		"name" : "Subaru"
+	},
+	{
+		"ID" : 65,
+		"code" : "SUZUKI",
+		"name" : "Suzuki"
+	},
+	{
+		"ID" : 66,
+		"code" : "TESLA",
+		"name" : "Tesla"
+	},
+	{
+		"ID" : 67,
+		"code" : "TOYOTA",
+		"name" : "Toyota"
+	},
+	{
+		"ID" : 68,
+		"code" : "TRI",
+		"name" : "Triumph"
+	},
+	{
+		"ID" : 69,
+		"code" : "VOLKS",
+		"name" : "Volkswagen"
+	},
+	{
+		"ID" : 70,
+		"code" : "VOLVO",
+		"name" : "Volvo"
+	},
+	{
+		"ID" : 71,
+		"code" : "YUGO",
+		"name" : "Yugo"
+	}
+]

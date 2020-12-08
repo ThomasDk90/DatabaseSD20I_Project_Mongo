@@ -1,0 +1,6002 @@
+[
+	{
+		"ID" : 1,
+		"name" : "CL Models (4)",
+		"code" : "CL_MODELS",
+		"make_id" : 1
+	},
+	{
+		"ID" : 2,
+		"name" : " - 2.2CL",
+		"code" : "2.2CL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 3,
+		"name" : " - 2.3CL",
+		"code" : "2.3CL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 4,
+		"name" : " - 3.0CL",
+		"code" : "3.0CL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 5,
+		"name" : " - 3.2CL",
+		"code" : "3.2CL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 6,
+		"name" : "ILX",
+		"code" : "ILX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 7,
+		"name" : "Integra",
+		"code" : "INTEG",
+		"make_id" : 1
+	},
+	{
+		"ID" : 8,
+		"name" : "Legend",
+		"code" : "LEGEND",
+		"make_id" : 1
+	},
+	{
+		"ID" : 9,
+		"name" : "MDX",
+		"code" : "MDX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 10,
+		"name" : "NSX",
+		"code" : "NSX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 11,
+		"name" : "RDX",
+		"code" : "RDX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 12,
+		"name" : "RL Models (2)",
+		"code" : "RL_MODELS",
+		"make_id" : 1
+	},
+	{
+		"ID" : 13,
+		"name" : " - 3.5 RL",
+		"code" : "3.5RL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 14,
+		"name" : " - RL",
+		"code" : "RL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 15,
+		"name" : "RSX",
+		"code" : "RSX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 16,
+		"name" : "SLX",
+		"code" : "SLX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 17,
+		"name" : "TL Models (3)",
+		"code" : "TL_MODELS",
+		"make_id" : 1
+	},
+	{
+		"ID" : 18,
+		"name" : " - 2.5TL",
+		"code" : "2.5TL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 19,
+		"name" : " - 3.2TL",
+		"code" : "3.2TL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 20,
+		"name" : " - TL",
+		"code" : "TL",
+		"make_id" : 1
+	},
+	{
+		"ID" : 21,
+		"name" : "TSX",
+		"code" : "TSX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 22,
+		"name" : "Vigor",
+		"code" : "VIGOR",
+		"make_id" : 1
+	},
+	{
+		"ID" : 23,
+		"name" : "ZDX",
+		"code" : "ZDX",
+		"make_id" : 1
+	},
+	{
+		"ID" : 24,
+		"name" : "Other Acura Models",
+		"code" : "ACUOTH",
+		"make_id" : 1
+	},
+	{
+		"ID" : 25,
+		"name" : "164",
+		"code" : "ALFA164",
+		"make_id" : 2
+	},
+	{
+		"ID" : 26,
+		"name" : "8C Competizione",
+		"code" : "ALFA8C",
+		"make_id" : 2
+	},
+	{
+		"ID" : 27,
+		"name" : "GTV-6",
+		"code" : "ALFAGT",
+		"make_id" : 2
+	},
+	{
+		"ID" : 28,
+		"name" : "Milano",
+		"code" : "MIL",
+		"make_id" : 2
+	},
+	{
+		"ID" : 29,
+		"name" : "Spider",
+		"code" : "SPID",
+		"make_id" : 2
+	},
+	{
+		"ID" : 30,
+		"name" : "Other Alfa Romeo Models",
+		"code" : "ALFAOTH",
+		"make_id" : 2
+	},
+	{
+		"ID" : 31,
+		"name" : "Alliance",
+		"code" : "AMCALLIAN",
+		"make_id" : 3
+	},
+	{
+		"ID" : 32,
+		"name" : "Concord",
+		"code" : "CON",
+		"make_id" : 3
+	},
+	{
+		"ID" : 33,
+		"name" : "Eagle",
+		"code" : "EAGLE",
+		"make_id" : 3
+	},
+	{
+		"ID" : 34,
+		"name" : "Encore",
+		"code" : "AMCENC",
+		"make_id" : 3
+	},
+	{
+		"ID" : 35,
+		"name" : "Spirit",
+		"code" : "AMCSPIRIT",
+		"make_id" : 3
+	},
+	{
+		"ID" : 36,
+		"name" : "Other AMC Models",
+		"code" : "AMCOTH",
+		"make_id" : 3
+	},
+	{
+		"ID" : 37,
+		"name" : "DB7",
+		"code" : "DB7",
+		"make_id" : 4
+	},
+	{
+		"ID" : 38,
+		"name" : "DB9",
+		"code" : "DB9",
+		"make_id" : 4
+	},
+	{
+		"ID" : 39,
+		"name" : "DBS",
+		"code" : "DBS",
+		"make_id" : 4
+	},
+	{
+		"ID" : 40,
+		"name" : "Lagonda",
+		"code" : "LAGONDA",
+		"make_id" : 4
+	},
+	{
+		"ID" : 41,
+		"name" : "Rapide",
+		"code" : "RAPIDE",
+		"make_id" : 4
+	},
+	{
+		"ID" : 42,
+		"name" : "V12 Vantage",
+		"code" : "V12VANT",
+		"make_id" : 4
+	},
+	{
+		"ID" : 43,
+		"name" : "V8 Vantage",
+		"code" : "VANTAGE",
+		"make_id" : 4
+	},
+	{
+		"ID" : 44,
+		"name" : "Vanquish",
+		"code" : "VANQUISH",
+		"make_id" : 4
+	},
+	{
+		"ID" : 45,
+		"name" : "Virage",
+		"code" : "VIRAGE",
+		"make_id" : 4
+	},
+	{
+		"ID" : 46,
+		"name" : "Other Aston Martin Models",
+		"code" : "UNAVAILAST",
+		"make_id" : 4
+	},
+	{
+		"ID" : 47,
+		"name" : "100",
+		"code" : "AUDI100",
+		"make_id" : 5
+	},
+	{
+		"ID" : 48,
+		"name" : "200",
+		"code" : "AUDI200",
+		"make_id" : 5
+	},
+	{
+		"ID" : 49,
+		"name" : "4000",
+		"code" : "4000",
+		"make_id" : 5
+	},
+	{
+		"ID" : 50,
+		"name" : "5000",
+		"code" : "5000",
+		"make_id" : 5
+	},
+	{
+		"ID" : 51,
+		"name" : "80",
+		"code" : "80",
+		"make_id" : 5
+	},
+	{
+		"ID" : 52,
+		"name" : "90",
+		"code" : "90",
+		"make_id" : 5
+	},
+	{
+		"ID" : 53,
+		"name" : "A3",
+		"code" : "A3",
+		"make_id" : 5
+	},
+	{
+		"ID" : 54,
+		"name" : "A4",
+		"code" : "A4",
+		"make_id" : 5
+	},
+	{
+		"ID" : 55,
+		"name" : "A5",
+		"code" : "A5",
+		"make_id" : 5
+	},
+	{
+		"ID" : 56,
+		"name" : "A6",
+		"code" : "A6",
+		"make_id" : 5
+	},
+	{
+		"ID" : 57,
+		"name" : "A7",
+		"code" : "A7",
+		"make_id" : 5
+	},
+	{
+		"ID" : 58,
+		"name" : "A8",
+		"code" : "A8",
+		"make_id" : 5
+	},
+	{
+		"ID" : 59,
+		"name" : "allroad",
+		"code" : "ALLRDQUA",
+		"make_id" : 5
+	},
+	{
+		"ID" : 60,
+		"name" : "Cabriolet",
+		"code" : "AUDICABRI",
+		"make_id" : 5
+	},
+	{
+		"ID" : 61,
+		"name" : "Coupe",
+		"code" : "AUDICOUPE",
+		"make_id" : 5
+	},
+	{
+		"ID" : 62,
+		"name" : "Q3",
+		"code" : "Q3",
+		"make_id" : 5
+	},
+	{
+		"ID" : 63,
+		"name" : "Q5",
+		"code" : "Q5",
+		"make_id" : 5
+	},
+	{
+		"ID" : 64,
+		"name" : "Q7",
+		"code" : "Q7",
+		"make_id" : 5
+	},
+	{
+		"ID" : 65,
+		"name" : "Quattro",
+		"code" : "QUATTR",
+		"make_id" : 5
+	},
+	{
+		"ID" : 66,
+		"name" : "R8",
+		"code" : "R8",
+		"make_id" : 5
+	},
+	{
+		"ID" : 67,
+		"name" : "RS 4",
+		"code" : "RS4",
+		"make_id" : 5
+	},
+	{
+		"ID" : 68,
+		"name" : "RS 5",
+		"code" : "RS5",
+		"make_id" : 5
+	},
+	{
+		"ID" : 69,
+		"name" : "RS 6",
+		"code" : "RS6",
+		"make_id" : 5
+	},
+	{
+		"ID" : 70,
+		"name" : "S4",
+		"code" : "S4",
+		"make_id" : 5
+	},
+	{
+		"ID" : 71,
+		"name" : "S5",
+		"code" : "S5",
+		"make_id" : 5
+	},
+	{
+		"ID" : 72,
+		"name" : "S6",
+		"code" : "S6",
+		"make_id" : 5
+	},
+	{
+		"ID" : 73,
+		"name" : "S7",
+		"code" : "S7",
+		"make_id" : 5
+	},
+	{
+		"ID" : 74,
+		"name" : "S8",
+		"code" : "S8",
+		"make_id" : 5
+	},
+	{
+		"ID" : 75,
+		"name" : "TT",
+		"code" : "TT",
+		"make_id" : 5
+	},
+	{
+		"ID" : 76,
+		"name" : "TT RS",
+		"code" : "TTRS",
+		"make_id" : 5
+	},
+	{
+		"ID" : 77,
+		"name" : "TTS",
+		"code" : "TTS",
+		"make_id" : 5
+	},
+	{
+		"ID" : 78,
+		"name" : "V8 Quattro",
+		"code" : "V8",
+		"make_id" : 5
+	},
+	{
+		"ID" : 79,
+		"name" : "Other Audi Models",
+		"code" : "AUDOTH",
+		"make_id" : 5
+	},
+	{
+		"ID" : 80,
+		"name" : "Convertible",
+		"code" : "CONVERT",
+		"make_id" : 6
+	},
+	{
+		"ID" : 81,
+		"name" : "Coupe",
+		"code" : "COUPEAVANT",
+		"make_id" : 6
+	},
+	{
+		"ID" : 82,
+		"name" : "Sedan",
+		"code" : "SEDAN",
+		"make_id" : 6
+	},
+	{
+		"ID" : 83,
+		"name" : "Other Avanti Models",
+		"code" : "UNAVAILAVA",
+		"make_id" : 6
+	},
+	{
+		"ID" : 84,
+		"name" : "Arnage",
+		"code" : "ARNAGE",
+		"make_id" : 7
+	},
+	{
+		"ID" : 85,
+		"name" : "Azure",
+		"code" : "AZURE",
+		"make_id" : 7
+	},
+	{
+		"ID" : 86,
+		"name" : "Brooklands",
+		"code" : "BROOKLANDS",
+		"make_id" : 7
+	},
+	{
+		"ID" : 87,
+		"name" : "Continental",
+		"code" : "BENCONT",
+		"make_id" : 7
+	},
+	{
+		"ID" : 88,
+		"name" : "Corniche",
+		"code" : "CORNICHE",
+		"make_id" : 7
+	},
+	{
+		"ID" : 89,
+		"name" : "Eight",
+		"code" : "BENEIGHT",
+		"make_id" : 7
+	},
+	{
+		"ID" : 90,
+		"name" : "Mulsanne",
+		"code" : "BENMUL",
+		"make_id" : 7
+	},
+	{
+		"ID" : 91,
+		"name" : "Turbo R",
+		"code" : "BENTURBO",
+		"make_id" : 7
+	},
+	{
+		"ID" : 92,
+		"name" : "Other Bentley Models",
+		"code" : "UNAVAILBEN",
+		"make_id" : 7
+	},
+	{
+		"ID" : 93,
+		"name" : "1 Series (3)",
+		"code" : "1_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 94,
+		"name" : " - 128i",
+		"code" : "128I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 95,
+		"name" : " - 135i",
+		"code" : "135I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 96,
+		"name" : " - 135is",
+		"code" : "135IS",
+		"make_id" : 8
+	},
+	{
+		"ID" : 97,
+		"name" : "3 Series (29)",
+		"code" : "3_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 98,
+		"name" : " - 318i",
+		"code" : "318I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 99,
+		"name" : " - 318iC",
+		"code" : "318IC",
+		"make_id" : 8
+	},
+	{
+		"ID" : 100,
+		"name" : " - 318iS",
+		"code" : "318IS",
+		"make_id" : 8
+	},
+	{
+		"ID" : 101,
+		"name" : " - 318ti",
+		"code" : "318TI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 102,
+		"name" : " - 320i",
+		"code" : "320I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 103,
+		"name" : " - 323ci",
+		"code" : "323CI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 104,
+		"name" : " - 323i",
+		"code" : "323I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 105,
+		"name" : " - 323is",
+		"code" : "323IS",
+		"make_id" : 8
+	},
+	{
+		"ID" : 106,
+		"name" : " - 323iT",
+		"code" : "323IT",
+		"make_id" : 8
+	},
+	{
+		"ID" : 107,
+		"name" : " - 325Ci",
+		"code" : "325CI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 108,
+		"name" : " - 325e",
+		"code" : "325E",
+		"make_id" : 8
+	},
+	{
+		"ID" : 109,
+		"name" : " - 325es",
+		"code" : "325ES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 110,
+		"name" : " - 325i",
+		"code" : "325I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 111,
+		"name" : " - 325is",
+		"code" : "325IS",
+		"make_id" : 8
+	},
+	{
+		"ID" : 112,
+		"name" : " - 325iX",
+		"code" : "325IX",
+		"make_id" : 8
+	},
+	{
+		"ID" : 113,
+		"name" : " - 325xi",
+		"code" : "325XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 114,
+		"name" : " - 328Ci",
+		"code" : "328CI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 115,
+		"name" : " - 328i",
+		"code" : "328I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 116,
+		"name" : " - 328iS",
+		"code" : "328IS",
+		"make_id" : 8
+	},
+	{
+		"ID" : 117,
+		"name" : " - 328xi",
+		"code" : "328XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 118,
+		"name" : " - 330Ci",
+		"code" : "330CI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 119,
+		"name" : " - 330i",
+		"code" : "330I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 120,
+		"name" : " - 330xi",
+		"code" : "330XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 121,
+		"name" : " - 335d",
+		"code" : "335D",
+		"make_id" : 8
+	},
+	{
+		"ID" : 122,
+		"name" : " - 335i",
+		"code" : "335I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 123,
+		"name" : " - 335is",
+		"code" : "335IS",
+		"make_id" : 8
+	},
+	{
+		"ID" : 124,
+		"name" : " - 335xi",
+		"code" : "335XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 125,
+		"name" : " - ActiveHybrid 3",
+		"code" : "ACTIVE3",
+		"make_id" : 8
+	},
+	{
+		"ID" : 126,
+		"name" : " - 325",
+		"code" : "BMW325",
+		"make_id" : 8
+	},
+	{
+		"ID" : 127,
+		"name" : "5 Series (19)",
+		"code" : "5_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 128,
+		"name" : " - 524td",
+		"code" : "524TD",
+		"make_id" : 8
+	},
+	{
+		"ID" : 129,
+		"name" : " - 525i",
+		"code" : "525I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 130,
+		"name" : " - 525xi",
+		"code" : "525XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 131,
+		"name" : " - 528e",
+		"code" : "528E",
+		"make_id" : 8
+	},
+	{
+		"ID" : 132,
+		"name" : " - 528i",
+		"code" : "528I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 133,
+		"name" : " - 528iT",
+		"code" : "528IT",
+		"make_id" : 8
+	},
+	{
+		"ID" : 134,
+		"name" : " - 528xi",
+		"code" : "528XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 135,
+		"name" : " - 530i",
+		"code" : "530I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 136,
+		"name" : " - 530iT",
+		"code" : "530IT",
+		"make_id" : 8
+	},
+	{
+		"ID" : 137,
+		"name" : " - 530xi",
+		"code" : "530XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 138,
+		"name" : " - 533i",
+		"code" : "533I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 139,
+		"name" : " - 535i",
+		"code" : "535I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 140,
+		"name" : " - 535i Gran Turismo",
+		"code" : "535IGT",
+		"make_id" : 8
+	},
+	{
+		"ID" : 141,
+		"name" : " - 535xi",
+		"code" : "535XI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 142,
+		"name" : " - 540i",
+		"code" : "540I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 143,
+		"name" : " - 545i",
+		"code" : "545I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 144,
+		"name" : " - 550i",
+		"code" : "550I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 145,
+		"name" : " - 550i Gran Turismo",
+		"code" : "550IGT",
+		"make_id" : 8
+	},
+	{
+		"ID" : 146,
+		"name" : " - ActiveHybrid 5",
+		"code" : "ACTIVE5",
+		"make_id" : 8
+	},
+	{
+		"ID" : 147,
+		"name" : "6 Series (8)",
+		"code" : "6_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 148,
+		"name" : " - 633CSi",
+		"code" : "633CSI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 149,
+		"name" : " - 635CSi",
+		"code" : "635CSI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 150,
+		"name" : " - 640i",
+		"code" : "640I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 151,
+		"name" : " - 640i Gran Coupe",
+		"code" : "640IGC",
+		"make_id" : 8
+	},
+	{
+		"ID" : 152,
+		"name" : " - 645Ci",
+		"code" : "645CI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 153,
+		"name" : " - 650i",
+		"code" : "650I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 154,
+		"name" : " - 650i Gran Coupe",
+		"code" : "650IGC",
+		"make_id" : 8
+	},
+	{
+		"ID" : 155,
+		"name" : " - L6",
+		"code" : "L6",
+		"make_id" : 8
+	},
+	{
+		"ID" : 156,
+		"name" : "7 Series (15)",
+		"code" : "7_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 157,
+		"name" : " - 733i",
+		"code" : "733I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 158,
+		"name" : " - 735i",
+		"code" : "735I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 159,
+		"name" : " - 735iL",
+		"code" : "735IL",
+		"make_id" : 8
+	},
+	{
+		"ID" : 160,
+		"name" : " - 740i",
+		"code" : "740I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 161,
+		"name" : " - 740iL",
+		"code" : "740IL",
+		"make_id" : 8
+	},
+	{
+		"ID" : 162,
+		"name" : " - 740Li",
+		"code" : "740LI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 163,
+		"name" : " - 745i",
+		"code" : "745I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 164,
+		"name" : " - 745Li",
+		"code" : "745LI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 165,
+		"name" : " - 750i",
+		"code" : "750I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 166,
+		"name" : " - 750iL",
+		"code" : "750IL",
+		"make_id" : 8
+	},
+	{
+		"ID" : 167,
+		"name" : " - 750Li",
+		"code" : "750LI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 168,
+		"name" : " - 760i",
+		"code" : "760I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 169,
+		"name" : " - 760Li",
+		"code" : "760LI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 170,
+		"name" : " - ActiveHybrid 7",
+		"code" : "ACTIVE7",
+		"make_id" : 8
+	},
+	{
+		"ID" : 171,
+		"name" : " - Alpina B7",
+		"code" : "ALPINAB7",
+		"make_id" : 8
+	},
+	{
+		"ID" : 172,
+		"name" : "8 Series (4)",
+		"code" : "8_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 173,
+		"name" : " - 840Ci",
+		"code" : "840CI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 174,
+		"name" : " - 850Ci",
+		"code" : "850CI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 175,
+		"name" : " - 850CSi",
+		"code" : "850CSI",
+		"make_id" : 8
+	},
+	{
+		"ID" : 176,
+		"name" : " - 850i",
+		"code" : "850I",
+		"make_id" : 8
+	},
+	{
+		"ID" : 177,
+		"name" : "L Series (1)",
+		"code" : "L_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 178,
+		"name" : " - L7",
+		"code" : "L7",
+		"make_id" : 8
+	},
+	{
+		"ID" : 179,
+		"name" : "M Series (8)",
+		"code" : "M_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 180,
+		"name" : " - 1 Series M",
+		"code" : "1SERIESM",
+		"make_id" : 8
+	},
+	{
+		"ID" : 181,
+		"name" : " - M Coupe",
+		"code" : "BMWMCOUPE",
+		"make_id" : 8
+	},
+	{
+		"ID" : 182,
+		"name" : " - M Roadster",
+		"code" : "BMWROAD",
+		"make_id" : 8
+	},
+	{
+		"ID" : 183,
+		"name" : " - M3",
+		"code" : "M3",
+		"make_id" : 8
+	},
+	{
+		"ID" : 184,
+		"name" : " - M5",
+		"code" : "M5",
+		"make_id" : 8
+	},
+	{
+		"ID" : 185,
+		"name" : " - M6",
+		"code" : "M6",
+		"make_id" : 8
+	},
+	{
+		"ID" : 186,
+		"name" : " - X5 M",
+		"code" : "X5M",
+		"make_id" : 8
+	},
+	{
+		"ID" : 187,
+		"name" : " - X6 M",
+		"code" : "X6M",
+		"make_id" : 8
+	},
+	{
+		"ID" : 188,
+		"name" : "X Series (5)",
+		"code" : "X_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 189,
+		"name" : " - ActiveHybrid X6",
+		"code" : "ACTIVEX6",
+		"make_id" : 8
+	},
+	{
+		"ID" : 190,
+		"name" : " - X1",
+		"code" : "X1",
+		"make_id" : 8
+	},
+	{
+		"ID" : 191,
+		"name" : " - X3",
+		"code" : "X3",
+		"make_id" : 8
+	},
+	{
+		"ID" : 192,
+		"name" : " - X5",
+		"code" : "X5",
+		"make_id" : 8
+	},
+	{
+		"ID" : 193,
+		"name" : " - X6",
+		"code" : "X6",
+		"make_id" : 8
+	},
+	{
+		"ID" : 194,
+		"name" : "Z Series (3)",
+		"code" : "Z_SERIES",
+		"make_id" : 8
+	},
+	{
+		"ID" : 195,
+		"name" : " - Z3",
+		"code" : "Z3",
+		"make_id" : 8
+	},
+	{
+		"ID" : 196,
+		"name" : " - Z4",
+		"code" : "Z4",
+		"make_id" : 8
+	},
+	{
+		"ID" : 197,
+		"name" : " - Z8",
+		"code" : "Z8",
+		"make_id" : 8
+	},
+	{
+		"ID" : 198,
+		"name" : "Other BMW Models",
+		"code" : "BMWOTH",
+		"make_id" : 8
+	},
+	{
+		"ID" : 199,
+		"name" : "Century",
+		"code" : "CENT",
+		"make_id" : 9
+	},
+	{
+		"ID" : 200,
+		"name" : "Electra",
+		"code" : "ELEC",
+		"make_id" : 9
+	},
+	{
+		"ID" : 201,
+		"name" : "Enclave",
+		"code" : "ENCLAVE",
+		"make_id" : 9
+	},
+	{
+		"ID" : 202,
+		"name" : "Encore",
+		"code" : "BUIENC",
+		"make_id" : 9
+	},
+	{
+		"ID" : 203,
+		"name" : "LaCrosse",
+		"code" : "LACROSSE",
+		"make_id" : 9
+	},
+	{
+		"ID" : 204,
+		"name" : "Le Sabre",
+		"code" : "LESA",
+		"make_id" : 9
+	},
+	{
+		"ID" : 205,
+		"name" : "Lucerne",
+		"code" : "LUCERNE",
+		"make_id" : 9
+	},
+	{
+		"ID" : 206,
+		"name" : "Park Avenue",
+		"code" : "PARK",
+		"make_id" : 9
+	},
+	{
+		"ID" : 207,
+		"name" : "Rainier",
+		"code" : "RAINIER",
+		"make_id" : 9
+	},
+	{
+		"ID" : 208,
+		"name" : "Reatta",
+		"code" : "REATTA",
+		"make_id" : 9
+	},
+	{
+		"ID" : 209,
+		"name" : "Regal",
+		"code" : "REG",
+		"make_id" : 9
+	},
+	{
+		"ID" : 210,
+		"name" : "Rendezvous",
+		"code" : "RENDEZVOUS",
+		"make_id" : 9
+	},
+	{
+		"ID" : 211,
+		"name" : "Riviera",
+		"code" : "RIV",
+		"make_id" : 9
+	},
+	{
+		"ID" : 212,
+		"name" : "Roadmaster",
+		"code" : "BUICKROAD",
+		"make_id" : 9
+	},
+	{
+		"ID" : 213,
+		"name" : "Skyhawk",
+		"code" : "SKYH",
+		"make_id" : 9
+	},
+	{
+		"ID" : 214,
+		"name" : "Skylark",
+		"code" : "SKYL",
+		"make_id" : 9
+	},
+	{
+		"ID" : 215,
+		"name" : "Somerset",
+		"code" : "SOMER",
+		"make_id" : 9
+	},
+	{
+		"ID" : 216,
+		"name" : "Terraza",
+		"code" : "TERRAZA",
+		"make_id" : 9
+	},
+	{
+		"ID" : 217,
+		"name" : "Verano",
+		"code" : "BUVERANO",
+		"make_id" : 9
+	},
+	{
+		"ID" : 218,
+		"name" : "Other Buick Models",
+		"code" : "BUOTH",
+		"make_id" : 9
+	},
+	{
+		"ID" : 219,
+		"name" : "Allante",
+		"code" : "ALLANT",
+		"make_id" : 10
+	},
+	{
+		"ID" : 220,
+		"name" : "ATS",
+		"code" : "ATS",
+		"make_id" : 10
+	},
+	{
+		"ID" : 221,
+		"name" : "Brougham",
+		"code" : "BROUGH",
+		"make_id" : 10
+	},
+	{
+		"ID" : 222,
+		"name" : "Catera",
+		"code" : "CATERA",
+		"make_id" : 10
+	},
+	{
+		"ID" : 223,
+		"name" : "Cimarron",
+		"code" : "CIMA",
+		"make_id" : 10
+	},
+	{
+		"ID" : 224,
+		"name" : "CTS",
+		"code" : "CTS",
+		"make_id" : 10
+	},
+	{
+		"ID" : 225,
+		"name" : "De Ville",
+		"code" : "DEV",
+		"make_id" : 10
+	},
+	{
+		"ID" : 226,
+		"name" : "DTS",
+		"code" : "DTS",
+		"make_id" : 10
+	},
+	{
+		"ID" : 227,
+		"name" : "Eldorado",
+		"code" : "ELDO",
+		"make_id" : 10
+	},
+	{
+		"ID" : 228,
+		"name" : "Escalade",
+		"code" : "ESCALA",
+		"make_id" : 10
+	},
+	{
+		"ID" : 229,
+		"name" : "Escalade ESV",
+		"code" : "ESCALAESV",
+		"make_id" : 10
+	},
+	{
+		"ID" : 230,
+		"name" : "Escalade EXT",
+		"code" : "EXT",
+		"make_id" : 10
+	},
+	{
+		"ID" : 231,
+		"name" : "Fleetwood",
+		"code" : "FLEE",
+		"make_id" : 10
+	},
+	{
+		"ID" : 232,
+		"name" : "Seville",
+		"code" : "SEV",
+		"make_id" : 10
+	},
+	{
+		"ID" : 233,
+		"name" : "SRX",
+		"code" : "SRX",
+		"make_id" : 10
+	},
+	{
+		"ID" : 234,
+		"name" : "STS",
+		"code" : "STS",
+		"make_id" : 10
+	},
+	{
+		"ID" : 235,
+		"name" : "XLR",
+		"code" : "XLR",
+		"make_id" : 10
+	},
+	{
+		"ID" : 236,
+		"name" : "XTS",
+		"code" : "XTS",
+		"make_id" : 10
+	},
+	{
+		"ID" : 237,
+		"name" : "Other Cadillac Models",
+		"code" : "CADOTH",
+		"make_id" : 10
+	},
+	{
+		"ID" : 238,
+		"name" : "Astro",
+		"code" : "ASTRO",
+		"make_id" : 11
+	},
+	{
+		"ID" : 239,
+		"name" : "Avalanche",
+		"code" : "AVALNCH",
+		"make_id" : 11
+	},
+	{
+		"ID" : 240,
+		"name" : "Aveo",
+		"code" : "AVEO",
+		"make_id" : 11
+	},
+	{
+		"ID" : 241,
+		"name" : "Aveo5",
+		"code" : "AVEO5",
+		"make_id" : 11
+	},
+	{
+		"ID" : 242,
+		"name" : "Beretta",
+		"code" : "BERETT",
+		"make_id" : 11
+	},
+	{
+		"ID" : 243,
+		"name" : "Blazer",
+		"code" : "BLAZER",
+		"make_id" : 11
+	},
+	{
+		"ID" : 244,
+		"name" : "Camaro",
+		"code" : "CAM",
+		"make_id" : 11
+	},
+	{
+		"ID" : 245,
+		"name" : "Caprice",
+		"code" : "CAP",
+		"make_id" : 11
+	},
+	{
+		"ID" : 246,
+		"name" : "Captiva Sport",
+		"code" : "CHECAPS",
+		"make_id" : 11
+	},
+	{
+		"ID" : 247,
+		"name" : "Cavalier",
+		"code" : "CAV",
+		"make_id" : 11
+	},
+	{
+		"ID" : 248,
+		"name" : "Celebrity",
+		"code" : "CELE",
+		"make_id" : 11
+	},
+	{
+		"ID" : 249,
+		"name" : "Chevette",
+		"code" : "CHEVETTE",
+		"make_id" : 11
+	},
+	{
+		"ID" : 250,
+		"name" : "Citation",
+		"code" : "CITATION",
+		"make_id" : 11
+	},
+	{
+		"ID" : 251,
+		"name" : "Cobalt",
+		"code" : "COBALT",
+		"make_id" : 11
+	},
+	{
+		"ID" : 252,
+		"name" : "Colorado",
+		"code" : "COLORADO",
+		"make_id" : 11
+	},
+	{
+		"ID" : 253,
+		"name" : "Corsica",
+		"code" : "CORSI",
+		"make_id" : 11
+	},
+	{
+		"ID" : 254,
+		"name" : "Corvette",
+		"code" : "CORV",
+		"make_id" : 11
+	},
+	{
+		"ID" : 255,
+		"name" : "Cruze",
+		"code" : "CRUZE",
+		"make_id" : 11
+	},
+	{
+		"ID" : 256,
+		"name" : "El Camino",
+		"code" : "ELCAM",
+		"make_id" : 11
+	},
+	{
+		"ID" : 257,
+		"name" : "Equinox",
+		"code" : "EQUINOX",
+		"make_id" : 11
+	},
+	{
+		"ID" : 258,
+		"name" : "Express Van",
+		"code" : "G15EXP",
+		"make_id" : 11
+	},
+	{
+		"ID" : 259,
+		"name" : "G Van",
+		"code" : "G10",
+		"make_id" : 11
+	},
+	{
+		"ID" : 260,
+		"name" : "HHR",
+		"code" : "HHR",
+		"make_id" : 11
+	},
+	{
+		"ID" : 261,
+		"name" : "Impala",
+		"code" : "CHEVIMP",
+		"make_id" : 11
+	},
+	{
+		"ID" : 262,
+		"name" : "Kodiak C4500",
+		"code" : "KODC4500",
+		"make_id" : 11
+	},
+	{
+		"ID" : 263,
+		"name" : "Lumina",
+		"code" : "LUMINA",
+		"make_id" : 11
+	},
+	{
+		"ID" : 264,
+		"name" : "Lumina APV",
+		"code" : "LAPV",
+		"make_id" : 11
+	},
+	{
+		"ID" : 265,
+		"name" : "LUV",
+		"code" : "LUV",
+		"make_id" : 11
+	},
+	{
+		"ID" : 266,
+		"name" : "Malibu",
+		"code" : "MALI",
+		"make_id" : 11
+	},
+	{
+		"ID" : 267,
+		"name" : "Metro",
+		"code" : "CHVMETR",
+		"make_id" : 11
+	},
+	{
+		"ID" : 268,
+		"name" : "Monte Carlo",
+		"code" : "CHEVMONT",
+		"make_id" : 11
+	},
+	{
+		"ID" : 269,
+		"name" : "Nova",
+		"code" : "NOVA",
+		"make_id" : 11
+	},
+	{
+		"ID" : 270,
+		"name" : "Prizm",
+		"code" : "CHEVPRIZM",
+		"make_id" : 11
+	},
+	{
+		"ID" : 271,
+		"name" : "S10 Blazer",
+		"code" : "CHVST",
+		"make_id" : 11
+	},
+	{
+		"ID" : 272,
+		"name" : "S10 Pickup",
+		"code" : "S10PICKUP",
+		"make_id" : 11
+	},
+	{
+		"ID" : 273,
+		"name" : "Silverado and other C/K1500",
+		"code" : "CHEV150",
+		"make_id" : 11
+	},
+	{
+		"ID" : 274,
+		"name" : "Silverado and other C/K2500",
+		"code" : "CHEVC25",
+		"make_id" : 11
+	},
+	{
+		"ID" : 275,
+		"name" : "Silverado and other C/K3500",
+		"code" : "CH3500PU",
+		"make_id" : 11
+	},
+	{
+		"ID" : 276,
+		"name" : "Sonic",
+		"code" : "SONIC",
+		"make_id" : 11
+	},
+	{
+		"ID" : 277,
+		"name" : "Spark",
+		"code" : "SPARK",
+		"make_id" : 11
+	},
+	{
+		"ID" : 278,
+		"name" : "Spectrum",
+		"code" : "CHEVSPEC",
+		"make_id" : 11
+	},
+	{
+		"ID" : 279,
+		"name" : "Sprint",
+		"code" : "CHSPRINT",
+		"make_id" : 11
+	},
+	{
+		"ID" : 280,
+		"name" : "SSR",
+		"code" : "SSR",
+		"make_id" : 11
+	},
+	{
+		"ID" : 281,
+		"name" : "Suburban",
+		"code" : "CHEVSUB",
+		"make_id" : 11
+	},
+	{
+		"ID" : 282,
+		"name" : "Tahoe",
+		"code" : "TAHOE",
+		"make_id" : 11
+	},
+	{
+		"ID" : 283,
+		"name" : "Tracker",
+		"code" : "TRACKE",
+		"make_id" : 11
+	},
+	{
+		"ID" : 284,
+		"name" : "TrailBlazer",
+		"code" : "TRAILBLZ",
+		"make_id" : 11
+	},
+	{
+		"ID" : 285,
+		"name" : "TrailBlazer EXT",
+		"code" : "TRAILBZEXT",
+		"make_id" : 11
+	},
+	{
+		"ID" : 286,
+		"name" : "Traverse",
+		"code" : "TRAVERSE",
+		"make_id" : 11
+	},
+	{
+		"ID" : 287,
+		"name" : "Uplander",
+		"code" : "UPLANDER",
+		"make_id" : 11
+	},
+	{
+		"ID" : 288,
+		"name" : "Venture",
+		"code" : "VENTUR",
+		"make_id" : 11
+	},
+	{
+		"ID" : 289,
+		"name" : "Volt",
+		"code" : "VOLT",
+		"make_id" : 11
+	},
+	{
+		"ID" : 290,
+		"name" : "Other Chevrolet Models",
+		"code" : "CHEOTH",
+		"make_id" : 11
+	},
+	{
+		"ID" : 291,
+		"name" : "200",
+		"code" : "CHRYS200",
+		"make_id" : 12
+	},
+	{
+		"ID" : 292,
+		"name" : "300",
+		"code" : "300",
+		"make_id" : 12
+	},
+	{
+		"ID" : 293,
+		"name" : "300M",
+		"code" : "CHRY300",
+		"make_id" : 12
+	},
+	{
+		"ID" : 294,
+		"name" : "Aspen",
+		"code" : "ASPEN",
+		"make_id" : 12
+	},
+	{
+		"ID" : 295,
+		"name" : "Caravan",
+		"code" : "CARAVAN",
+		"make_id" : 12
+	},
+	{
+		"ID" : 296,
+		"name" : "Cirrus",
+		"code" : "CIRRUS",
+		"make_id" : 12
+	},
+	{
+		"ID" : 297,
+		"name" : "Concorde",
+		"code" : "CONC",
+		"make_id" : 12
+	},
+	{
+		"ID" : 298,
+		"name" : "Conquest",
+		"code" : "CHRYCONQ",
+		"make_id" : 12
+	},
+	{
+		"ID" : 299,
+		"name" : "Cordoba",
+		"code" : "CORDOBA",
+		"make_id" : 12
+	},
+	{
+		"ID" : 300,
+		"name" : "Crossfire",
+		"code" : "CROSSFIRE",
+		"make_id" : 12
+	},
+	{
+		"ID" : 301,
+		"name" : "E Class",
+		"code" : "ECLASS",
+		"make_id" : 12
+	},
+	{
+		"ID" : 302,
+		"name" : "Fifth Avenue",
+		"code" : "FIFTH",
+		"make_id" : 12
+	},
+	{
+		"ID" : 303,
+		"name" : "Grand Voyager",
+		"code" : "CHRYGRANDV",
+		"make_id" : 12
+	},
+	{
+		"ID" : 304,
+		"name" : "Imperial",
+		"code" : "IMPE",
+		"make_id" : 12
+	},
+	{
+		"ID" : 305,
+		"name" : "Intrepid",
+		"code" : "INTREPID",
+		"make_id" : 12
+	},
+	{
+		"ID" : 306,
+		"name" : "Laser",
+		"code" : "CHRYLAS",
+		"make_id" : 12
+	},
+	{
+		"ID" : 307,
+		"name" : "LeBaron",
+		"code" : "LEBA",
+		"make_id" : 12
+	},
+	{
+		"ID" : 308,
+		"name" : "LHS",
+		"code" : "LHS",
+		"make_id" : 12
+	},
+	{
+		"ID" : 309,
+		"name" : "Neon",
+		"code" : "CHRYNEON",
+		"make_id" : 12
+	},
+	{
+		"ID" : 310,
+		"name" : "New Yorker",
+		"code" : "NY",
+		"make_id" : 12
+	},
+	{
+		"ID" : 311,
+		"name" : "Newport",
+		"code" : "NEWPORT",
+		"make_id" : 12
+	},
+	{
+		"ID" : 312,
+		"name" : "Pacifica",
+		"code" : "PACIFICA",
+		"make_id" : 12
+	},
+	{
+		"ID" : 313,
+		"name" : "Prowler",
+		"code" : "CHPROWLE",
+		"make_id" : 12
+	},
+	{
+		"ID" : 314,
+		"name" : "PT Cruiser",
+		"code" : "PTCRUIS",
+		"make_id" : 12
+	},
+	{
+		"ID" : 315,
+		"name" : "Sebring",
+		"code" : "CHRYSEB",
+		"make_id" : 12
+	},
+	{
+		"ID" : 316,
+		"name" : "TC by Maserati",
+		"code" : "CHRYTC",
+		"make_id" : 12
+	},
+	{
+		"ID" : 317,
+		"name" : "Town & Country",
+		"code" : "TANDC",
+		"make_id" : 12
+	},
+	{
+		"ID" : 318,
+		"name" : "Voyager",
+		"code" : "VOYAGER",
+		"make_id" : 12
+	},
+	{
+		"ID" : 319,
+		"name" : "Other Chrysler Models",
+		"code" : "CHOTH",
+		"make_id" : 12
+	},
+	{
+		"ID" : 320,
+		"name" : "Lanos",
+		"code" : "LANOS",
+		"make_id" : 13
+	},
+	{
+		"ID" : 321,
+		"name" : "Leganza",
+		"code" : "LEGANZA",
+		"make_id" : 13
+	},
+	{
+		"ID" : 322,
+		"name" : "Nubira",
+		"code" : "NUBIRA",
+		"make_id" : 13
+	},
+	{
+		"ID" : 323,
+		"name" : "Other Daewoo Models",
+		"code" : "DAEOTH",
+		"make_id" : 13
+	},
+	{
+		"ID" : 324,
+		"name" : "Charade",
+		"code" : "CHAR",
+		"make_id" : 14
+	},
+	{
+		"ID" : 325,
+		"name" : "Rocky",
+		"code" : "ROCKY",
+		"make_id" : 14
+	},
+	{
+		"ID" : 326,
+		"name" : "Other Daihatsu Models",
+		"code" : "DAIHOTH",
+		"make_id" : 14
+	},
+	{
+		"ID" : 327,
+		"name" : "200SX",
+		"code" : "DAT200SX",
+		"make_id" : 15
+	},
+	{
+		"ID" : 328,
+		"name" : "210",
+		"code" : "DAT210",
+		"make_id" : 15
+	},
+	{
+		"ID" : 329,
+		"name" : "280ZX",
+		"code" : "280Z",
+		"make_id" : 15
+	},
+	{
+		"ID" : 330,
+		"name" : "300ZX",
+		"code" : "300ZX",
+		"make_id" : 15
+	},
+	{
+		"ID" : 331,
+		"name" : "310",
+		"code" : "310",
+		"make_id" : 15
+	},
+	{
+		"ID" : 332,
+		"name" : "510",
+		"code" : "510",
+		"make_id" : 15
+	},
+	{
+		"ID" : 333,
+		"name" : "720",
+		"code" : "720",
+		"make_id" : 15
+	},
+	{
+		"ID" : 334,
+		"name" : "810",
+		"code" : "810",
+		"make_id" : 15
+	},
+	{
+		"ID" : 335,
+		"name" : "Maxima",
+		"code" : "DATMAX",
+		"make_id" : 15
+	},
+	{
+		"ID" : 336,
+		"name" : "Pickup",
+		"code" : "DATPU",
+		"make_id" : 15
+	},
+	{
+		"ID" : 337,
+		"name" : "Pulsar",
+		"code" : "PUL",
+		"make_id" : 15
+	},
+	{
+		"ID" : 338,
+		"name" : "Sentra",
+		"code" : "DATSENT",
+		"make_id" : 15
+	},
+	{
+		"ID" : 339,
+		"name" : "Stanza",
+		"code" : "STAN",
+		"make_id" : 15
+	},
+	{
+		"ID" : 340,
+		"name" : "Other Datsun Models",
+		"code" : "DATOTH",
+		"make_id" : 15
+	},
+	{
+		"ID" : 341,
+		"name" : "DMC-12",
+		"code" : "DMC12",
+		"make_id" : 16
+	},
+	{
+		"ID" : 342,
+		"name" : "400",
+		"code" : "400",
+		"make_id" : 17
+	},
+	{
+		"ID" : 343,
+		"name" : "600",
+		"code" : "DOD600",
+		"make_id" : 17
+	},
+	{
+		"ID" : 344,
+		"name" : "Aries",
+		"code" : "ARI",
+		"make_id" : 17
+	},
+	{
+		"ID" : 345,
+		"name" : "Avenger",
+		"code" : "AVENGR",
+		"make_id" : 17
+	},
+	{
+		"ID" : 346,
+		"name" : "Caliber",
+		"code" : "CALIBER",
+		"make_id" : 17
+	},
+	{
+		"ID" : 347,
+		"name" : "Caravan",
+		"code" : "DODCARA",
+		"make_id" : 17
+	},
+	{
+		"ID" : 348,
+		"name" : "Challenger",
+		"code" : "CHALLENGER",
+		"make_id" : 17
+	},
+	{
+		"ID" : 349,
+		"name" : "Charger",
+		"code" : "DODCHAR",
+		"make_id" : 17
+	},
+	{
+		"ID" : 350,
+		"name" : "Colt",
+		"code" : "DODCOLT",
+		"make_id" : 17
+	},
+	{
+		"ID" : 351,
+		"name" : "Conquest",
+		"code" : "DODCONQ",
+		"make_id" : 17
+	},
+	{
+		"ID" : 352,
+		"name" : "D/W Truck",
+		"code" : "DODDW",
+		"make_id" : 17
+	},
+	{
+		"ID" : 353,
+		"name" : "Dakota",
+		"code" : "DAKOTA",
+		"make_id" : 17
+	},
+	{
+		"ID" : 354,
+		"name" : "Dart",
+		"code" : "DODDART",
+		"make_id" : 17
+	},
+	{
+		"ID" : 355,
+		"name" : "Daytona",
+		"code" : "DAY",
+		"make_id" : 17
+	},
+	{
+		"ID" : 356,
+		"name" : "Diplomat",
+		"code" : "DIPLOMA",
+		"make_id" : 17
+	},
+	{
+		"ID" : 357,
+		"name" : "Durango",
+		"code" : "DURANG",
+		"make_id" : 17
+	},
+	{
+		"ID" : 358,
+		"name" : "Dynasty",
+		"code" : "DODDYNA",
+		"make_id" : 17
+	},
+	{
+		"ID" : 359,
+		"name" : "Grand Caravan",
+		"code" : "GRANDCARAV",
+		"make_id" : 17
+	},
+	{
+		"ID" : 360,
+		"name" : "Intrepid",
+		"code" : "INTRE",
+		"make_id" : 17
+	},
+	{
+		"ID" : 361,
+		"name" : "Journey",
+		"code" : "JOURNEY",
+		"make_id" : 17
+	},
+	{
+		"ID" : 362,
+		"name" : "Lancer",
+		"code" : "LANCERDODG",
+		"make_id" : 17
+	},
+	{
+		"ID" : 363,
+		"name" : "Magnum",
+		"code" : "MAGNUM",
+		"make_id" : 17
+	},
+	{
+		"ID" : 364,
+		"name" : "Mirada",
+		"code" : "MIRADA",
+		"make_id" : 17
+	},
+	{
+		"ID" : 365,
+		"name" : "Monaco",
+		"code" : "MONACO",
+		"make_id" : 17
+	},
+	{
+		"ID" : 366,
+		"name" : "Neon",
+		"code" : "DODNEON",
+		"make_id" : 17
+	},
+	{
+		"ID" : 367,
+		"name" : "Nitro",
+		"code" : "NITRO",
+		"make_id" : 17
+	},
+	{
+		"ID" : 368,
+		"name" : "Omni",
+		"code" : "OMNI",
+		"make_id" : 17
+	},
+	{
+		"ID" : 369,
+		"name" : "Raider",
+		"code" : "RAIDER",
+		"make_id" : 17
+	},
+	{
+		"ID" : 370,
+		"name" : "Ram 1500 Truck",
+		"code" : "RAM1504WD",
+		"make_id" : 17
+	},
+	{
+		"ID" : 371,
+		"name" : "Ram 2500 Truck",
+		"code" : "RAM25002WD",
+		"make_id" : 17
+	},
+	{
+		"ID" : 372,
+		"name" : "Ram 3500 Truck",
+		"code" : "RAM3502WD",
+		"make_id" : 17
+	},
+	{
+		"ID" : 373,
+		"name" : "Ram 4500 Truck",
+		"code" : "RAM4500",
+		"make_id" : 17
+	},
+	{
+		"ID" : 374,
+		"name" : "Ram 50 Truck",
+		"code" : "DODD50",
+		"make_id" : 17
+	},
+	{
+		"ID" : 375,
+		"name" : "RAM C/V",
+		"code" : "CV",
+		"make_id" : 17
+	},
+	{
+		"ID" : 376,
+		"name" : "Ram SRT-10",
+		"code" : "RAMSRT10",
+		"make_id" : 17
+	},
+	{
+		"ID" : 377,
+		"name" : "Ram Van",
+		"code" : "RAMVANV8",
+		"make_id" : 17
+	},
+	{
+		"ID" : 378,
+		"name" : "Ram Wagon",
+		"code" : "RAMWAGON",
+		"make_id" : 17
+	},
+	{
+		"ID" : 379,
+		"name" : "Ramcharger",
+		"code" : "RAMCGR",
+		"make_id" : 17
+	},
+	{
+		"ID" : 380,
+		"name" : "Rampage",
+		"code" : "RAMPAGE",
+		"make_id" : 17
+	},
+	{
+		"ID" : 381,
+		"name" : "Shadow",
+		"code" : "DODSHAD",
+		"make_id" : 17
+	},
+	{
+		"ID" : 382,
+		"name" : "Spirit",
+		"code" : "DODSPIR",
+		"make_id" : 17
+	},
+	{
+		"ID" : 383,
+		"name" : "Sprinter",
+		"code" : "SPRINTER",
+		"make_id" : 17
+	},
+	{
+		"ID" : 384,
+		"name" : "SRT-4",
+		"code" : "SRT4",
+		"make_id" : 17
+	},
+	{
+		"ID" : 385,
+		"name" : "St. Regis",
+		"code" : "STREGIS",
+		"make_id" : 17
+	},
+	{
+		"ID" : 386,
+		"name" : "Stealth",
+		"code" : "STEAL",
+		"make_id" : 17
+	},
+	{
+		"ID" : 387,
+		"name" : "Stratus",
+		"code" : "STRATU",
+		"make_id" : 17
+	},
+	{
+		"ID" : 388,
+		"name" : "Viper",
+		"code" : "VIPER",
+		"make_id" : 17
+	},
+	{
+		"ID" : 389,
+		"name" : "Other Dodge Models",
+		"code" : "DOOTH",
+		"make_id" : 17
+	},
+	{
+		"ID" : 390,
+		"name" : "Medallion",
+		"code" : "EAGLEMED",
+		"make_id" : 18
+	},
+	{
+		"ID" : 391,
+		"name" : "Premier",
+		"code" : "EAGLEPREM",
+		"make_id" : 18
+	},
+	{
+		"ID" : 392,
+		"name" : "Summit",
+		"code" : "SUMMIT",
+		"make_id" : 18
+	},
+	{
+		"ID" : 393,
+		"name" : "Talon",
+		"code" : "TALON",
+		"make_id" : 18
+	},
+	{
+		"ID" : 394,
+		"name" : "Vision",
+		"code" : "VISION",
+		"make_id" : 18
+	},
+	{
+		"ID" : 395,
+		"name" : "Other Eagle Models",
+		"code" : "EAGOTH",
+		"make_id" : 18
+	},
+	{
+		"ID" : 396,
+		"name" : "308 GTB Quattrovalvole",
+		"code" : "308GTB",
+		"make_id" : 19
+	},
+	{
+		"ID" : 397,
+		"name" : "308 GTBI",
+		"code" : "308TBI",
+		"make_id" : 19
+	},
+	{
+		"ID" : 398,
+		"name" : "308 GTS Quattrovalvole",
+		"code" : "308GTS",
+		"make_id" : 19
+	},
+	{
+		"ID" : 399,
+		"name" : "308 GTSI",
+		"code" : "308TSI",
+		"make_id" : 19
+	},
+	{
+		"ID" : 400,
+		"name" : "328 GTB",
+		"code" : "328GTB",
+		"make_id" : 19
+	},
+	{
+		"ID" : 401,
+		"name" : "328 GTS",
+		"code" : "328GTS",
+		"make_id" : 19
+	},
+	{
+		"ID" : 402,
+		"name" : "348 GTB",
+		"code" : "348GTB",
+		"make_id" : 19
+	},
+	{
+		"ID" : 403,
+		"name" : "348 GTS",
+		"code" : "348GTS",
+		"make_id" : 19
+	},
+	{
+		"ID" : 404,
+		"name" : "348 Spider",
+		"code" : "348SPI",
+		"make_id" : 19
+	},
+	{
+		"ID" : 405,
+		"name" : "348 TB",
+		"code" : "348TB",
+		"make_id" : 19
+	},
+	{
+		"ID" : 406,
+		"name" : "348 TS",
+		"code" : "348TS",
+		"make_id" : 19
+	},
+	{
+		"ID" : 407,
+		"name" : "360",
+		"code" : "360",
+		"make_id" : 19
+	},
+	{
+		"ID" : 408,
+		"name" : "456 GT",
+		"code" : "456GT",
+		"make_id" : 19
+	},
+	{
+		"ID" : 409,
+		"name" : "456M GT",
+		"code" : "456MGT",
+		"make_id" : 19
+	},
+	{
+		"ID" : 410,
+		"name" : "458 Italia",
+		"code" : "458ITALIA",
+		"make_id" : 19
+	},
+	{
+		"ID" : 411,
+		"name" : "512 BBi",
+		"code" : "512BBI",
+		"make_id" : 19
+	},
+	{
+		"ID" : 412,
+		"name" : "512M",
+		"code" : "512M",
+		"make_id" : 19
+	},
+	{
+		"ID" : 413,
+		"name" : "512TR",
+		"code" : "512TR",
+		"make_id" : 19
+	},
+	{
+		"ID" : 414,
+		"name" : "550 Maranello",
+		"code" : "550M",
+		"make_id" : 19
+	},
+	{
+		"ID" : 415,
+		"name" : "575M Maranello",
+		"code" : "575M",
+		"make_id" : 19
+	},
+	{
+		"ID" : 416,
+		"name" : "599 GTB Fiorano",
+		"code" : "599GTB",
+		"make_id" : 19
+	},
+	{
+		"ID" : 417,
+		"name" : "599 GTO",
+		"code" : "599GTO",
+		"make_id" : 19
+	},
+	{
+		"ID" : 418,
+		"name" : "612 Scaglietti",
+		"code" : "612SCAGLIE",
+		"make_id" : 19
+	},
+	{
+		"ID" : 419,
+		"name" : "California",
+		"code" : "FERCALIF",
+		"make_id" : 19
+	},
+	{
+		"ID" : 420,
+		"name" : "Enzo",
+		"code" : "ENZO",
+		"make_id" : 19
+	},
+	{
+		"ID" : 421,
+		"name" : "F355",
+		"code" : "F355",
+		"make_id" : 19
+	},
+	{
+		"ID" : 422,
+		"name" : "F40",
+		"code" : "F40",
+		"make_id" : 19
+	},
+	{
+		"ID" : 423,
+		"name" : "F430",
+		"code" : "F430",
+		"make_id" : 19
+	},
+	{
+		"ID" : 424,
+		"name" : "F50",
+		"code" : "F50",
+		"make_id" : 19
+	},
+	{
+		"ID" : 425,
+		"name" : "FF",
+		"code" : "FERFF",
+		"make_id" : 19
+	},
+	{
+		"ID" : 426,
+		"name" : "Mondial",
+		"code" : "MOND",
+		"make_id" : 19
+	},
+	{
+		"ID" : 427,
+		"name" : "Testarossa",
+		"code" : "TEST",
+		"make_id" : 19
+	},
+	{
+		"ID" : 428,
+		"name" : "Other Ferrari Models",
+		"code" : "UNAVAILFER",
+		"make_id" : 19
+	},
+	{
+		"ID" : 429,
+		"name" : "2000 Spider",
+		"code" : "2000",
+		"make_id" : 20
+	},
+	{
+		"ID" : 430,
+		"name" : "500",
+		"code" : "FIAT500",
+		"make_id" : 20
+	},
+	{
+		"ID" : 431,
+		"name" : "Bertone X1/9",
+		"code" : "BERTON",
+		"make_id" : 20
+	},
+	{
+		"ID" : 432,
+		"name" : "Brava",
+		"code" : "BRAVA",
+		"make_id" : 20
+	},
+	{
+		"ID" : 433,
+		"name" : "Pininfarina Spider",
+		"code" : "PININ",
+		"make_id" : 20
+	},
+	{
+		"ID" : 434,
+		"name" : "Strada",
+		"code" : "STRADA",
+		"make_id" : 20
+	},
+	{
+		"ID" : 435,
+		"name" : "X1/9",
+		"code" : "FIATX19",
+		"make_id" : 20
+	},
+	{
+		"ID" : 436,
+		"name" : "Other Fiat Models",
+		"code" : "UNAVAILFIA",
+		"make_id" : 20
+	},
+	{
+		"ID" : 437,
+		"name" : "Karma",
+		"code" : "KARMA",
+		"make_id" : 21
+	},
+	{
+		"ID" : 438,
+		"name" : "Aerostar",
+		"code" : "AERO",
+		"make_id" : 22
+	},
+	{
+		"ID" : 439,
+		"name" : "Aspire",
+		"code" : "ASPIRE",
+		"make_id" : 22
+	},
+	{
+		"ID" : 440,
+		"name" : "Bronco",
+		"code" : "BRON",
+		"make_id" : 22
+	},
+	{
+		"ID" : 441,
+		"name" : "Bronco II",
+		"code" : "B2",
+		"make_id" : 22
+	},
+	{
+		"ID" : 442,
+		"name" : "C-MAX",
+		"code" : "FOCMAX",
+		"make_id" : 22
+	},
+	{
+		"ID" : 443,
+		"name" : "Club Wagon",
+		"code" : "FORDCLUB",
+		"make_id" : 22
+	},
+	{
+		"ID" : 444,
+		"name" : "Contour",
+		"code" : "CONTOUR",
+		"make_id" : 22
+	},
+	{
+		"ID" : 445,
+		"name" : "Courier",
+		"code" : "COURIER",
+		"make_id" : 22
+	},
+	{
+		"ID" : 446,
+		"name" : "Crown Victoria",
+		"code" : "CROWNVIC",
+		"make_id" : 22
+	},
+	{
+		"ID" : 447,
+		"name" : "E-150 and Econoline 150",
+		"code" : "E150ECON",
+		"make_id" : 22
+	},
+	{
+		"ID" : 448,
+		"name" : "E-250 and Econoline 250",
+		"code" : "E250ECON",
+		"make_id" : 22
+	},
+	{
+		"ID" : 449,
+		"name" : "E-350 and Econoline 350",
+		"code" : "E350ECON",
+		"make_id" : 22
+	},
+	{
+		"ID" : 450,
+		"name" : "Edge",
+		"code" : "EDGE",
+		"make_id" : 22
+	},
+	{
+		"ID" : 451,
+		"name" : "Escape",
+		"code" : "ESCAPE",
+		"make_id" : 22
+	},
+	{
+		"ID" : 452,
+		"name" : "Escort",
+		"code" : "ESCO",
+		"make_id" : 22
+	},
+	{
+		"ID" : 453,
+		"name" : "Excursion",
+		"code" : "EXCURSION",
+		"make_id" : 22
+	},
+	{
+		"ID" : 454,
+		"name" : "EXP",
+		"code" : "EXP",
+		"make_id" : 22
+	},
+	{
+		"ID" : 455,
+		"name" : "Expedition",
+		"code" : "EXPEDI",
+		"make_id" : 22
+	},
+	{
+		"ID" : 456,
+		"name" : "Expedition EL",
+		"code" : "EXPEDIEL",
+		"make_id" : 22
+	},
+	{
+		"ID" : 457,
+		"name" : "Explorer",
+		"code" : "EXPLOR",
+		"make_id" : 22
+	},
+	{
+		"ID" : 458,
+		"name" : "Explorer Sport Trac",
+		"code" : "SPORTTRAC",
+		"make_id" : 22
+	},
+	{
+		"ID" : 459,
+		"name" : "F100",
+		"code" : "F100",
+		"make_id" : 22
+	},
+	{
+		"ID" : 460,
+		"name" : "F150",
+		"code" : "F150PICKUP",
+		"make_id" : 22
+	},
+	{
+		"ID" : 461,
+		"name" : "F250",
+		"code" : "F250",
+		"make_id" : 22
+	},
+	{
+		"ID" : 462,
+		"name" : "F350",
+		"code" : "F350",
+		"make_id" : 22
+	},
+	{
+		"ID" : 463,
+		"name" : "F450",
+		"code" : "F450",
+		"make_id" : 22
+	},
+	{
+		"ID" : 464,
+		"name" : "Fairmont",
+		"code" : "FAIRM",
+		"make_id" : 22
+	},
+	{
+		"ID" : 465,
+		"name" : "Festiva",
+		"code" : "FESTIV",
+		"make_id" : 22
+	},
+	{
+		"ID" : 466,
+		"name" : "Fiesta",
+		"code" : "FIESTA",
+		"make_id" : 22
+	},
+	{
+		"ID" : 467,
+		"name" : "Five Hundred",
+		"code" : "FIVEHUNDRE",
+		"make_id" : 22
+	},
+	{
+		"ID" : 468,
+		"name" : "Flex",
+		"code" : "FLEX",
+		"make_id" : 22
+	},
+	{
+		"ID" : 469,
+		"name" : "Focus",
+		"code" : "FOCUS",
+		"make_id" : 22
+	},
+	{
+		"ID" : 470,
+		"name" : "Freestar",
+		"code" : "FREESTAR",
+		"make_id" : 22
+	},
+	{
+		"ID" : 471,
+		"name" : "Freestyle",
+		"code" : "FREESTYLE",
+		"make_id" : 22
+	},
+	{
+		"ID" : 472,
+		"name" : "Fusion",
+		"code" : "FUSION",
+		"make_id" : 22
+	},
+	{
+		"ID" : 473,
+		"name" : "Granada",
+		"code" : "GRANADA",
+		"make_id" : 22
+	},
+	{
+		"ID" : 474,
+		"name" : "GT",
+		"code" : "GT",
+		"make_id" : 22
+	},
+	{
+		"ID" : 475,
+		"name" : "LTD",
+		"code" : "LTD",
+		"make_id" : 22
+	},
+	{
+		"ID" : 476,
+		"name" : "Mustang",
+		"code" : "MUST",
+		"make_id" : 22
+	},
+	{
+		"ID" : 477,
+		"name" : "Probe",
+		"code" : "PROBE",
+		"make_id" : 22
+	},
+	{
+		"ID" : 478,
+		"name" : "Ranger",
+		"code" : "RANGER",
+		"make_id" : 22
+	},
+	{
+		"ID" : 479,
+		"name" : "Taurus",
+		"code" : "TAURUS",
+		"make_id" : 22
+	},
+	{
+		"ID" : 480,
+		"name" : "Taurus X",
+		"code" : "TAURUSX",
+		"make_id" : 22
+	},
+	{
+		"ID" : 481,
+		"name" : "Tempo",
+		"code" : "TEMPO",
+		"make_id" : 22
+	},
+	{
+		"ID" : 482,
+		"name" : "Thunderbird",
+		"code" : "TBIRD",
+		"make_id" : 22
+	},
+	{
+		"ID" : 483,
+		"name" : "Transit Connect",
+		"code" : "TRANSCONN",
+		"make_id" : 22
+	},
+	{
+		"ID" : 484,
+		"name" : "Windstar",
+		"code" : "WINDST",
+		"make_id" : 22
+	},
+	{
+		"ID" : 485,
+		"name" : "ZX2 Escort",
+		"code" : "FORDZX2",
+		"make_id" : 22
+	},
+	{
+		"ID" : 486,
+		"name" : "Other Ford Models",
+		"code" : "FOOTH",
+		"make_id" : 22
+	},
+	{
+		"ID" : 487,
+		"name" : "Sprinter",
+		"code" : "FRESPRINT",
+		"make_id" : 23
+	},
+	{
+		"ID" : 488,
+		"name" : "Metro",
+		"code" : "GEOMETRO",
+		"make_id" : 24
+	},
+	{
+		"ID" : 489,
+		"name" : "Prizm",
+		"code" : "GEOPRIZM",
+		"make_id" : 24
+	},
+	{
+		"ID" : 490,
+		"name" : "Spectrum",
+		"code" : "SPECT",
+		"make_id" : 24
+	},
+	{
+		"ID" : 491,
+		"name" : "Storm",
+		"code" : "STORM",
+		"make_id" : 24
+	},
+	{
+		"ID" : 492,
+		"name" : "Tracker",
+		"code" : "GEOTRACK",
+		"make_id" : 24
+	},
+	{
+		"ID" : 493,
+		"name" : "Other Geo Models",
+		"code" : "GEOOTH",
+		"make_id" : 24
+	},
+	{
+		"ID" : 494,
+		"name" : "Acadia",
+		"code" : "ACADIA",
+		"make_id" : 25
+	},
+	{
+		"ID" : 495,
+		"name" : "Caballero",
+		"code" : "CABALLERO",
+		"make_id" : 25
+	},
+	{
+		"ID" : 496,
+		"name" : "Canyon",
+		"code" : "CANYON",
+		"make_id" : 25
+	},
+	{
+		"ID" : 497,
+		"name" : "Envoy",
+		"code" : "ENVOY",
+		"make_id" : 25
+	},
+	{
+		"ID" : 498,
+		"name" : "Envoy XL",
+		"code" : "ENVOYXL",
+		"make_id" : 25
+	},
+	{
+		"ID" : 499,
+		"name" : "Envoy XUV",
+		"code" : "ENVOYXUV",
+		"make_id" : 25
+	},
+	{
+		"ID" : 500,
+		"name" : "Jimmy",
+		"code" : "JIM",
+		"make_id" : 25
+	},
+	{
+		"ID" : 501,
+		"name" : "Rally Wagon",
+		"code" : "RALLYWAG",
+		"make_id" : 25
+	},
+	{
+		"ID" : 502,
+		"name" : "S15 Jimmy",
+		"code" : "GMCS15",
+		"make_id" : 25
+	},
+	{
+		"ID" : 503,
+		"name" : "S15 Pickup",
+		"code" : "S15",
+		"make_id" : 25
+	},
+	{
+		"ID" : 504,
+		"name" : "Safari",
+		"code" : "SAFARIGMC",
+		"make_id" : 25
+	},
+	{
+		"ID" : 505,
+		"name" : "Savana",
+		"code" : "GMCSAVANA",
+		"make_id" : 25
+	},
+	{
+		"ID" : 506,
+		"name" : "Sierra C/K1500",
+		"code" : "15SIPU4WD",
+		"make_id" : 25
+	},
+	{
+		"ID" : 507,
+		"name" : "Sierra C/K2500",
+		"code" : "GMCC25PU",
+		"make_id" : 25
+	},
+	{
+		"ID" : 508,
+		"name" : "Sierra C/K3500",
+		"code" : "GMC3500PU",
+		"make_id" : 25
+	},
+	{
+		"ID" : 509,
+		"name" : "Sonoma",
+		"code" : "SONOMA",
+		"make_id" : 25
+	},
+	{
+		"ID" : 510,
+		"name" : "Suburban",
+		"code" : "SUB",
+		"make_id" : 25
+	},
+	{
+		"ID" : 511,
+		"name" : "Syclone",
+		"code" : "GMCSYCLON",
+		"make_id" : 25
+	},
+	{
+		"ID" : 512,
+		"name" : "Terrain",
+		"code" : "TERRAIN",
+		"make_id" : 25
+	},
+	{
+		"ID" : 513,
+		"name" : "TopKick C4500",
+		"code" : "TOPC4500",
+		"make_id" : 25
+	},
+	{
+		"ID" : 514,
+		"name" : "Typhoon",
+		"code" : "TYPH",
+		"make_id" : 25
+	},
+	{
+		"ID" : 515,
+		"name" : "Vandura",
+		"code" : "GMCVANDUR",
+		"make_id" : 25
+	},
+	{
+		"ID" : 516,
+		"name" : "Yukon",
+		"code" : "YUKON",
+		"make_id" : 25
+	},
+	{
+		"ID" : 517,
+		"name" : "Yukon XL",
+		"code" : "YUKONXL",
+		"make_id" : 25
+	},
+	{
+		"ID" : 518,
+		"name" : "Other GMC Models",
+		"code" : "GMCOTH",
+		"make_id" : 25
+	},
+	{
+		"ID" : 519,
+		"name" : "Accord",
+		"code" : "ACCORD",
+		"make_id" : 26
+	},
+	{
+		"ID" : 520,
+		"name" : "Civic",
+		"code" : "CIVIC",
+		"make_id" : 26
+	},
+	{
+		"ID" : 521,
+		"name" : "CR-V",
+		"code" : "CRV",
+		"make_id" : 26
+	},
+	{
+		"ID" : 522,
+		"name" : "CR-Z",
+		"code" : "CRZ",
+		"make_id" : 26
+	},
+	{
+		"ID" : 523,
+		"name" : "CRX",
+		"code" : "CRX",
+		"make_id" : 26
+	},
+	{
+		"ID" : 524,
+		"name" : "Crosstour and Accord Crosstour Models (2)",
+		"code" : "CROSSTOUR_MODELS",
+		"make_id" : 26
+	},
+	{
+		"ID" : 525,
+		"name" : " - Accord Crosstour",
+		"code" : "CROSSTOUR",
+		"make_id" : 26
+	},
+	{
+		"ID" : 526,
+		"name" : " - Crosstour",
+		"code" : "HONCROSS",
+		"make_id" : 26
+	},
+	{
+		"ID" : 527,
+		"name" : "Del Sol",
+		"code" : "HONDELSOL",
+		"make_id" : 26
+	},
+	{
+		"ID" : 528,
+		"name" : "Element",
+		"code" : "ELEMENT",
+		"make_id" : 26
+	},
+	{
+		"ID" : 529,
+		"name" : "Fit",
+		"code" : "FIT",
+		"make_id" : 26
+	},
+	{
+		"ID" : 530,
+		"name" : "Insight",
+		"code" : "INSIGHT",
+		"make_id" : 26
+	},
+	{
+		"ID" : 531,
+		"name" : "Odyssey",
+		"code" : "ODYSSEY",
+		"make_id" : 26
+	},
+	{
+		"ID" : 532,
+		"name" : "Passport",
+		"code" : "PASSPO",
+		"make_id" : 26
+	},
+	{
+		"ID" : 533,
+		"name" : "Pilot",
+		"code" : "PILOT",
+		"make_id" : 26
+	},
+	{
+		"ID" : 534,
+		"name" : "Prelude",
+		"code" : "PRE",
+		"make_id" : 26
+	},
+	{
+		"ID" : 535,
+		"name" : "Ridgeline",
+		"code" : "RIDGELINE",
+		"make_id" : 26
+	},
+	{
+		"ID" : 536,
+		"name" : "S2000",
+		"code" : "S2000",
+		"make_id" : 26
+	},
+	{
+		"ID" : 537,
+		"name" : "Other Honda Models",
+		"code" : "HONOTH",
+		"make_id" : 26
+	},
+	{
+		"ID" : 538,
+		"name" : "H1",
+		"code" : "HUMMER",
+		"make_id" : 27
+	},
+	{
+		"ID" : 539,
+		"name" : "H2",
+		"code" : "H2",
+		"make_id" : 27
+	},
+	{
+		"ID" : 540,
+		"name" : "H3",
+		"code" : "H3",
+		"make_id" : 27
+	},
+	{
+		"ID" : 541,
+		"name" : "H3T",
+		"code" : "H3T",
+		"make_id" : 27
+	},
+	{
+		"ID" : 542,
+		"name" : "Other Hummer Models",
+		"code" : "AMGOTH",
+		"make_id" : 27
+	},
+	{
+		"ID" : 543,
+		"name" : "Accent",
+		"code" : "ACCENT",
+		"make_id" : 28
+	},
+	{
+		"ID" : 544,
+		"name" : "Azera",
+		"code" : "AZERA",
+		"make_id" : 28
+	},
+	{
+		"ID" : 545,
+		"name" : "Elantra",
+		"code" : "ELANTR",
+		"make_id" : 28
+	},
+	{
+		"ID" : 546,
+		"name" : "Elantra Coupe",
+		"code" : "HYUELANCPE",
+		"make_id" : 28
+	},
+	{
+		"ID" : 547,
+		"name" : "Elantra Touring",
+		"code" : "ELANTOUR",
+		"make_id" : 28
+	},
+	{
+		"ID" : 548,
+		"name" : "Entourage",
+		"code" : "ENTOURAGE",
+		"make_id" : 28
+	},
+	{
+		"ID" : 549,
+		"name" : "Equus",
+		"code" : "EQUUS",
+		"make_id" : 28
+	},
+	{
+		"ID" : 550,
+		"name" : "Excel",
+		"code" : "HYUEXCEL",
+		"make_id" : 28
+	},
+	{
+		"ID" : 551,
+		"name" : "Genesis",
+		"code" : "GENESIS",
+		"make_id" : 28
+	},
+	{
+		"ID" : 552,
+		"name" : "Genesis Coupe",
+		"code" : "GENESISCPE",
+		"make_id" : 28
+	},
+	{
+		"ID" : 553,
+		"name" : "Santa Fe",
+		"code" : "SANTAFE",
+		"make_id" : 28
+	},
+	{
+		"ID" : 554,
+		"name" : "Scoupe",
+		"code" : "SCOUPE",
+		"make_id" : 28
+	},
+	{
+		"ID" : 555,
+		"name" : "Sonata",
+		"code" : "SONATA",
+		"make_id" : 28
+	},
+	{
+		"ID" : 556,
+		"name" : "Tiburon",
+		"code" : "TIBURO",
+		"make_id" : 28
+	},
+	{
+		"ID" : 557,
+		"name" : "Tucson",
+		"code" : "TUCSON",
+		"make_id" : 28
+	},
+	{
+		"ID" : 558,
+		"name" : "Veloster",
+		"code" : "VELOSTER",
+		"make_id" : 28
+	},
+	{
+		"ID" : 559,
+		"name" : "Veracruz",
+		"code" : "VERACRUZ",
+		"make_id" : 28
+	},
+	{
+		"ID" : 560,
+		"name" : "XG300",
+		"code" : "XG300",
+		"make_id" : 28
+	},
+	{
+		"ID" : 561,
+		"name" : "XG350",
+		"code" : "XG350",
+		"make_id" : 28
+	},
+	{
+		"ID" : 562,
+		"name" : "Other Hyundai Models",
+		"code" : "HYUOTH",
+		"make_id" : 28
+	},
+	{
+		"ID" : 563,
+		"name" : "EX Models (2)",
+		"code" : "EX_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 564,
+		"name" : " - EX35",
+		"code" : "EX35",
+		"make_id" : 29
+	},
+	{
+		"ID" : 565,
+		"name" : " - EX37",
+		"code" : "EX37",
+		"make_id" : 29
+	},
+	{
+		"ID" : 566,
+		"name" : "FX Models (4)",
+		"code" : "FX_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 567,
+		"name" : " - FX35",
+		"code" : "FX35",
+		"make_id" : 29
+	},
+	{
+		"ID" : 568,
+		"name" : " - FX37",
+		"code" : "FX37",
+		"make_id" : 29
+	},
+	{
+		"ID" : 569,
+		"name" : " - FX45",
+		"code" : "FX45",
+		"make_id" : 29
+	},
+	{
+		"ID" : 570,
+		"name" : " - FX50",
+		"code" : "FX50",
+		"make_id" : 29
+	},
+	{
+		"ID" : 571,
+		"name" : "G Models (4)",
+		"code" : "G_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 572,
+		"name" : " - G20",
+		"code" : "G20",
+		"make_id" : 29
+	},
+	{
+		"ID" : 573,
+		"name" : " - G25",
+		"code" : "G25",
+		"make_id" : 29
+	},
+	{
+		"ID" : 574,
+		"name" : " - G35",
+		"code" : "G35",
+		"make_id" : 29
+	},
+	{
+		"ID" : 575,
+		"name" : " - G37",
+		"code" : "G37",
+		"make_id" : 29
+	},
+	{
+		"ID" : 576,
+		"name" : "I Models (2)",
+		"code" : "I_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 577,
+		"name" : " - I30",
+		"code" : "I30",
+		"make_id" : 29
+	},
+	{
+		"ID" : 578,
+		"name" : " - I35",
+		"code" : "I35",
+		"make_id" : 29
+	},
+	{
+		"ID" : 579,
+		"name" : "J Models (1)",
+		"code" : "J_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 580,
+		"name" : " - J30",
+		"code" : "J30",
+		"make_id" : 29
+	},
+	{
+		"ID" : 581,
+		"name" : "JX Models (1)",
+		"code" : "JX_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 582,
+		"name" : " - JX35",
+		"code" : "JX35",
+		"make_id" : 29
+	},
+	{
+		"ID" : 583,
+		"name" : "M Models (6)",
+		"code" : "M_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 584,
+		"name" : " - M30",
+		"code" : "M30",
+		"make_id" : 29
+	},
+	{
+		"ID" : 585,
+		"name" : " - M35",
+		"code" : "M35",
+		"make_id" : 29
+	},
+	{
+		"ID" : 586,
+		"name" : " - M35h",
+		"code" : "M35HYBRID",
+		"make_id" : 29
+	},
+	{
+		"ID" : 587,
+		"name" : " - M37",
+		"code" : "M37",
+		"make_id" : 29
+	},
+	{
+		"ID" : 588,
+		"name" : " - M45",
+		"code" : "M45",
+		"make_id" : 29
+	},
+	{
+		"ID" : 589,
+		"name" : " - M56",
+		"code" : "M56",
+		"make_id" : 29
+	},
+	{
+		"ID" : 590,
+		"name" : "Q Models (1)",
+		"code" : "Q_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 591,
+		"name" : " - Q45",
+		"code" : "Q45",
+		"make_id" : 29
+	},
+	{
+		"ID" : 592,
+		"name" : "QX Models (2)",
+		"code" : "QX_MODELS",
+		"make_id" : 29
+	},
+	{
+		"ID" : 593,
+		"name" : " - QX4",
+		"code" : "QX4",
+		"make_id" : 29
+	},
+	{
+		"ID" : 594,
+		"name" : " - QX56",
+		"code" : "QX56",
+		"make_id" : 29
+	},
+	{
+		"ID" : 595,
+		"name" : "Other Infiniti Models",
+		"code" : "INFOTH",
+		"make_id" : 29
+	},
+	{
+		"ID" : 596,
+		"name" : "Amigo",
+		"code" : "AMIGO",
+		"make_id" : 30
+	},
+	{
+		"ID" : 597,
+		"name" : "Ascender",
+		"code" : "ASCENDER",
+		"make_id" : 30
+	},
+	{
+		"ID" : 598,
+		"name" : "Axiom",
+		"code" : "AXIOM",
+		"make_id" : 30
+	},
+	{
+		"ID" : 599,
+		"name" : "Hombre",
+		"code" : "HOMBRE",
+		"make_id" : 30
+	},
+	{
+		"ID" : 600,
+		"name" : "i-280",
+		"code" : "I280",
+		"make_id" : 30
+	},
+	{
+		"ID" : 601,
+		"name" : "i-290",
+		"code" : "I290",
+		"make_id" : 30
+	},
+	{
+		"ID" : 602,
+		"name" : "i-350",
+		"code" : "I350",
+		"make_id" : 30
+	},
+	{
+		"ID" : 603,
+		"name" : "i-370",
+		"code" : "I370",
+		"make_id" : 30
+	},
+	{
+		"ID" : 604,
+		"name" : "I-Mark",
+		"code" : "ISUMARK",
+		"make_id" : 30
+	},
+	{
+		"ID" : 605,
+		"name" : "Impulse",
+		"code" : "ISUIMP",
+		"make_id" : 30
+	},
+	{
+		"ID" : 606,
+		"name" : "Oasis",
+		"code" : "OASIS",
+		"make_id" : 30
+	},
+	{
+		"ID" : 607,
+		"name" : "Pickup",
+		"code" : "ISUPU",
+		"make_id" : 30
+	},
+	{
+		"ID" : 608,
+		"name" : "Rodeo",
+		"code" : "RODEO",
+		"make_id" : 30
+	},
+	{
+		"ID" : 609,
+		"name" : "Stylus",
+		"code" : "STYLUS",
+		"make_id" : 30
+	},
+	{
+		"ID" : 610,
+		"name" : "Trooper",
+		"code" : "TROOP",
+		"make_id" : 30
+	},
+	{
+		"ID" : 611,
+		"name" : "Trooper II",
+		"code" : "TRP2",
+		"make_id" : 30
+	},
+	{
+		"ID" : 612,
+		"name" : "VehiCROSS",
+		"code" : "VEHICROSS",
+		"make_id" : 30
+	},
+	{
+		"ID" : 613,
+		"name" : "Other Isuzu Models",
+		"code" : "ISUOTH",
+		"make_id" : 30
+	},
+	{
+		"ID" : 614,
+		"name" : "S-Type",
+		"code" : "STYPE",
+		"make_id" : 31
+	},
+	{
+		"ID" : 615,
+		"name" : "X-Type",
+		"code" : "XTYPE",
+		"make_id" : 31
+	},
+	{
+		"ID" : 616,
+		"name" : "XF",
+		"code" : "XF",
+		"make_id" : 31
+	},
+	{
+		"ID" : 617,
+		"name" : "XJ Series (10)",
+		"code" : "XJ_SERIES",
+		"make_id" : 31
+	},
+	{
+		"ID" : 618,
+		"name" : " - XJ12",
+		"code" : "JAGXJ12",
+		"make_id" : 31
+	},
+	{
+		"ID" : 619,
+		"name" : " - XJ6",
+		"code" : "JAGXJ6",
+		"make_id" : 31
+	},
+	{
+		"ID" : 620,
+		"name" : " - XJR",
+		"code" : "JAGXJR",
+		"make_id" : 31
+	},
+	{
+		"ID" : 621,
+		"name" : " - XJR-S",
+		"code" : "JAGXJRS",
+		"make_id" : 31
+	},
+	{
+		"ID" : 622,
+		"name" : " - XJS",
+		"code" : "JAGXJS",
+		"make_id" : 31
+	},
+	{
+		"ID" : 623,
+		"name" : " - XJ Vanden Plas",
+		"code" : "VANDEN",
+		"make_id" : 31
+	},
+	{
+		"ID" : 624,
+		"name" : " - XJ",
+		"code" : "XJ",
+		"make_id" : 31
+	},
+	{
+		"ID" : 625,
+		"name" : " - XJ8",
+		"code" : "XJ8",
+		"make_id" : 31
+	},
+	{
+		"ID" : 626,
+		"name" : " - XJ8 L",
+		"code" : "XJ8L",
+		"make_id" : 31
+	},
+	{
+		"ID" : 627,
+		"name" : " - XJ Sport",
+		"code" : "XJSPORT",
+		"make_id" : 31
+	},
+	{
+		"ID" : 628,
+		"name" : "XK Series (3)",
+		"code" : "XK_SERIES",
+		"make_id" : 31
+	},
+	{
+		"ID" : 629,
+		"name" : " - XK8",
+		"code" : "JAGXK8",
+		"make_id" : 31
+	},
+	{
+		"ID" : 630,
+		"name" : " - XK",
+		"code" : "XK",
+		"make_id" : 31
+	},
+	{
+		"ID" : 631,
+		"name" : " - XKR",
+		"code" : "XKR",
+		"make_id" : 31
+	},
+	{
+		"ID" : 632,
+		"name" : "Other Jaguar Models",
+		"code" : "JAGOTH",
+		"make_id" : 31
+	},
+	{
+		"ID" : 633,
+		"name" : "Cherokee",
+		"code" : "CHER",
+		"make_id" : 32
+	},
+	{
+		"ID" : 634,
+		"name" : "CJ",
+		"code" : "JEEPCJ",
+		"make_id" : 32
+	},
+	{
+		"ID" : 635,
+		"name" : "Comanche",
+		"code" : "COMANC",
+		"make_id" : 32
+	},
+	{
+		"ID" : 636,
+		"name" : "Commander",
+		"code" : "COMMANDER",
+		"make_id" : 32
+	},
+	{
+		"ID" : 637,
+		"name" : "Compass",
+		"code" : "COMPASS",
+		"make_id" : 32
+	},
+	{
+		"ID" : 638,
+		"name" : "Grand Cherokee",
+		"code" : "JEEPGRAND",
+		"make_id" : 32
+	},
+	{
+		"ID" : 639,
+		"name" : "Grand Wagoneer",
+		"code" : "GRWAG",
+		"make_id" : 32
+	},
+	{
+		"ID" : 640,
+		"name" : "Liberty",
+		"code" : "LIBERTY",
+		"make_id" : 32
+	},
+	{
+		"ID" : 641,
+		"name" : "Patriot",
+		"code" : "PATRIOT",
+		"make_id" : 32
+	},
+	{
+		"ID" : 642,
+		"name" : "Pickup",
+		"code" : "JEEPPU",
+		"make_id" : 32
+	},
+	{
+		"ID" : 643,
+		"name" : "Scrambler",
+		"code" : "SCRAMBLE",
+		"make_id" : 32
+	},
+	{
+		"ID" : 644,
+		"name" : "Wagoneer",
+		"code" : "WAGONE",
+		"make_id" : 32
+	},
+	{
+		"ID" : 645,
+		"name" : "Wrangler",
+		"code" : "WRANGLER",
+		"make_id" : 32
+	},
+	{
+		"ID" : 646,
+		"name" : "Other Jeep Models",
+		"code" : "JEOTH",
+		"make_id" : 32
+	},
+	{
+		"ID" : 647,
+		"name" : "Amanti",
+		"code" : "AMANTI",
+		"make_id" : 33
+	},
+	{
+		"ID" : 648,
+		"name" : "Borrego",
+		"code" : "BORREGO",
+		"make_id" : 33
+	},
+	{
+		"ID" : 649,
+		"name" : "Forte",
+		"code" : "FORTE",
+		"make_id" : 33
+	},
+	{
+		"ID" : 650,
+		"name" : "Forte Koup",
+		"code" : "FORTEKOUP",
+		"make_id" : 33
+	},
+	{
+		"ID" : 651,
+		"name" : "Optima",
+		"code" : "OPTIMA",
+		"make_id" : 33
+	},
+	{
+		"ID" : 652,
+		"name" : "Rio",
+		"code" : "RIO",
+		"make_id" : 33
+	},
+	{
+		"ID" : 653,
+		"name" : "Rio5",
+		"code" : "RIO5",
+		"make_id" : 33
+	},
+	{
+		"ID" : 654,
+		"name" : "Rondo",
+		"code" : "RONDO",
+		"make_id" : 33
+	},
+	{
+		"ID" : 655,
+		"name" : "Sedona",
+		"code" : "SEDONA",
+		"make_id" : 33
+	},
+	{
+		"ID" : 656,
+		"name" : "Sephia",
+		"code" : "SEPHIA",
+		"make_id" : 33
+	},
+	{
+		"ID" : 657,
+		"name" : "Sorento",
+		"code" : "SORENTO",
+		"make_id" : 33
+	},
+	{
+		"ID" : 658,
+		"name" : "Soul",
+		"code" : "SOUL",
+		"make_id" : 33
+	},
+	{
+		"ID" : 659,
+		"name" : "Spectra",
+		"code" : "SPECTRA",
+		"make_id" : 33
+	},
+	{
+		"ID" : 660,
+		"name" : "Spectra5",
+		"code" : "SPECTRA5",
+		"make_id" : 33
+	},
+	{
+		"ID" : 661,
+		"name" : "Sportage",
+		"code" : "SPORTA",
+		"make_id" : 33
+	},
+	{
+		"ID" : 662,
+		"name" : "Other Kia Models",
+		"code" : "KIAOTH",
+		"make_id" : 33
+	},
+	{
+		"ID" : 663,
+		"name" : "Aventador",
+		"code" : "AVENT",
+		"make_id" : 34
+	},
+	{
+		"ID" : 664,
+		"name" : "Countach",
+		"code" : "COUNT",
+		"make_id" : 34
+	},
+	{
+		"ID" : 665,
+		"name" : "Diablo",
+		"code" : "DIABLO",
+		"make_id" : 34
+	},
+	{
+		"ID" : 666,
+		"name" : "Gallardo",
+		"code" : "GALLARDO",
+		"make_id" : 34
+	},
+	{
+		"ID" : 667,
+		"name" : "Jalpa",
+		"code" : "JALPA",
+		"make_id" : 34
+	},
+	{
+		"ID" : 668,
+		"name" : "LM002",
+		"code" : "LM002",
+		"make_id" : 34
+	},
+	{
+		"ID" : 669,
+		"name" : "Murcielago",
+		"code" : "MURCIELAGO",
+		"make_id" : 34
+	},
+	{
+		"ID" : 670,
+		"name" : "Other Lamborghini Models",
+		"code" : "UNAVAILLAM",
+		"make_id" : 34
+	},
+	{
+		"ID" : 671,
+		"name" : "Beta",
+		"code" : "BETA",
+		"make_id" : 35
+	},
+	{
+		"ID" : 672,
+		"name" : "Zagato",
+		"code" : "ZAGATO",
+		"make_id" : 35
+	},
+	{
+		"ID" : 673,
+		"name" : "Other Lancia Models",
+		"code" : "UNAVAILLAN",
+		"make_id" : 35
+	},
+	{
+		"ID" : 674,
+		"name" : "Defender",
+		"code" : "DEFEND",
+		"make_id" : 36
+	},
+	{
+		"ID" : 675,
+		"name" : "Discovery",
+		"code" : "DISCOV",
+		"make_id" : 36
+	},
+	{
+		"ID" : 676,
+		"name" : "Freelander",
+		"code" : "FRELNDR",
+		"make_id" : 36
+	},
+	{
+		"ID" : 677,
+		"name" : "LR2",
+		"code" : "LR2",
+		"make_id" : 36
+	},
+	{
+		"ID" : 678,
+		"name" : "LR3",
+		"code" : "LR3",
+		"make_id" : 36
+	},
+	{
+		"ID" : 679,
+		"name" : "LR4",
+		"code" : "LR4",
+		"make_id" : 36
+	},
+	{
+		"ID" : 680,
+		"name" : "Range Rover",
+		"code" : "RANGE",
+		"make_id" : 36
+	},
+	{
+		"ID" : 681,
+		"name" : "Range Rover Evoque",
+		"code" : "EVOQUE",
+		"make_id" : 36
+	},
+	{
+		"ID" : 682,
+		"name" : "Range Rover Sport",
+		"code" : "RANGESPORT",
+		"make_id" : 36
+	},
+	{
+		"ID" : 683,
+		"name" : "Other Land Rover Models",
+		"code" : "ROVOTH",
+		"make_id" : 36
+	},
+	{
+		"ID" : 684,
+		"name" : "CT Models (1)",
+		"code" : "CT_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 685,
+		"name" : " - CT 200h",
+		"code" : "CT200H",
+		"make_id" : 37
+	},
+	{
+		"ID" : 686,
+		"name" : "ES Models (5)",
+		"code" : "ES_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 687,
+		"name" : " - ES 250",
+		"code" : "ES250",
+		"make_id" : 37
+	},
+	{
+		"ID" : 688,
+		"name" : " - ES 300",
+		"code" : "ES300",
+		"make_id" : 37
+	},
+	{
+		"ID" : 689,
+		"name" : " - ES 300h",
+		"code" : "ES300H",
+		"make_id" : 37
+	},
+	{
+		"ID" : 690,
+		"name" : " - ES 330",
+		"code" : "ES330",
+		"make_id" : 37
+	},
+	{
+		"ID" : 691,
+		"name" : " - ES 350",
+		"code" : "ES350",
+		"make_id" : 37
+	},
+	{
+		"ID" : 692,
+		"name" : "GS Models (6)",
+		"code" : "GS_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 693,
+		"name" : " - GS 300",
+		"code" : "GS300",
+		"make_id" : 37
+	},
+	{
+		"ID" : 694,
+		"name" : " - GS 350",
+		"code" : "GS350",
+		"make_id" : 37
+	},
+	{
+		"ID" : 695,
+		"name" : " - GS 400",
+		"code" : "GS400",
+		"make_id" : 37
+	},
+	{
+		"ID" : 696,
+		"name" : " - GS 430",
+		"code" : "GS430",
+		"make_id" : 37
+	},
+	{
+		"ID" : 697,
+		"name" : " - GS 450h",
+		"code" : "GS450H",
+		"make_id" : 37
+	},
+	{
+		"ID" : 698,
+		"name" : " - GS 460",
+		"code" : "GS460",
+		"make_id" : 37
+	},
+	{
+		"ID" : 699,
+		"name" : "GX Models (2)",
+		"code" : "GX_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 700,
+		"name" : " - GX 460",
+		"code" : "GX460",
+		"make_id" : 37
+	},
+	{
+		"ID" : 701,
+		"name" : " - GX 470",
+		"code" : "GX470",
+		"make_id" : 37
+	},
+	{
+		"ID" : 702,
+		"name" : "HS Models (1)",
+		"code" : "HS_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 703,
+		"name" : " - HS 250h",
+		"code" : "HS250H",
+		"make_id" : 37
+	},
+	{
+		"ID" : 704,
+		"name" : "IS Models (6)",
+		"code" : "IS_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 705,
+		"name" : " - IS 250",
+		"code" : "IS250",
+		"make_id" : 37
+	},
+	{
+		"ID" : 706,
+		"name" : " - IS 250C",
+		"code" : "IS250C",
+		"make_id" : 37
+	},
+	{
+		"ID" : 707,
+		"name" : " - IS 300",
+		"code" : "IS300",
+		"make_id" : 37
+	},
+	{
+		"ID" : 708,
+		"name" : " - IS 350",
+		"code" : "IS350",
+		"make_id" : 37
+	},
+	{
+		"ID" : 709,
+		"name" : " - IS 350C",
+		"code" : "IS350C",
+		"make_id" : 37
+	},
+	{
+		"ID" : 710,
+		"name" : " - IS F",
+		"code" : "ISF",
+		"make_id" : 37
+	},
+	{
+		"ID" : 711,
+		"name" : "LFA",
+		"code" : "LEXLFA",
+		"make_id" : 37
+	},
+	{
+		"ID" : 712,
+		"name" : "LS Models (4)",
+		"code" : "LS_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 713,
+		"name" : " - LS 400",
+		"code" : "LS400",
+		"make_id" : 37
+	},
+	{
+		"ID" : 714,
+		"name" : " - LS 430",
+		"code" : "LS430",
+		"make_id" : 37
+	},
+	{
+		"ID" : 715,
+		"name" : " - LS 460",
+		"code" : "LS460",
+		"make_id" : 37
+	},
+	{
+		"ID" : 716,
+		"name" : " - LS 600h",
+		"code" : "LS600H",
+		"make_id" : 37
+	},
+	{
+		"ID" : 717,
+		"name" : "LX Models (3)",
+		"code" : "LX_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 718,
+		"name" : " - LX 450",
+		"code" : "LX450",
+		"make_id" : 37
+	},
+	{
+		"ID" : 719,
+		"name" : " - LX 470",
+		"code" : "LX470",
+		"make_id" : 37
+	},
+	{
+		"ID" : 720,
+		"name" : " - LX 570",
+		"code" : "LX570",
+		"make_id" : 37
+	},
+	{
+		"ID" : 721,
+		"name" : "RX Models (5)",
+		"code" : "RX_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 722,
+		"name" : " - RX 300",
+		"code" : "RX300",
+		"make_id" : 37
+	},
+	{
+		"ID" : 723,
+		"name" : " - RX 330",
+		"code" : "RX330",
+		"make_id" : 37
+	},
+	{
+		"ID" : 724,
+		"name" : " - RX 350",
+		"code" : "RX350",
+		"make_id" : 37
+	},
+	{
+		"ID" : 725,
+		"name" : " - RX 400h",
+		"code" : "RX400H",
+		"make_id" : 37
+	},
+	{
+		"ID" : 726,
+		"name" : " - RX 450h",
+		"code" : "RX450H",
+		"make_id" : 37
+	},
+	{
+		"ID" : 727,
+		"name" : "SC Models (3)",
+		"code" : "SC_MODELS",
+		"make_id" : 37
+	},
+	{
+		"ID" : 728,
+		"name" : " - SC 300",
+		"code" : "SC300",
+		"make_id" : 37
+	},
+	{
+		"ID" : 729,
+		"name" : " - SC 400",
+		"code" : "SC400",
+		"make_id" : 37
+	},
+	{
+		"ID" : 730,
+		"name" : " - SC 430",
+		"code" : "SC430",
+		"make_id" : 37
+	},
+	{
+		"ID" : 731,
+		"name" : "Other Lexus Models",
+		"code" : "LEXOTH",
+		"make_id" : 37
+	},
+	{
+		"ID" : 732,
+		"name" : "Aviator",
+		"code" : "AVIATOR",
+		"make_id" : 38
+	},
+	{
+		"ID" : 733,
+		"name" : "Blackwood",
+		"code" : "BLKWOOD",
+		"make_id" : 38
+	},
+	{
+		"ID" : 734,
+		"name" : "Continental",
+		"code" : "CONT",
+		"make_id" : 38
+	},
+	{
+		"ID" : 735,
+		"name" : "LS",
+		"code" : "LSLINCOLN",
+		"make_id" : 38
+	},
+	{
+		"ID" : 736,
+		"name" : "Mark LT",
+		"code" : "MARKLT",
+		"make_id" : 38
+	},
+	{
+		"ID" : 737,
+		"name" : "Mark VI",
+		"code" : "MARK6",
+		"make_id" : 38
+	},
+	{
+		"ID" : 738,
+		"name" : "Mark VII",
+		"code" : "MARK7",
+		"make_id" : 38
+	},
+	{
+		"ID" : 739,
+		"name" : "Mark VIII",
+		"code" : "MARK8",
+		"make_id" : 38
+	},
+	{
+		"ID" : 740,
+		"name" : "MKS",
+		"code" : "MKS",
+		"make_id" : 38
+	},
+	{
+		"ID" : 741,
+		"name" : "MKT",
+		"code" : "MKT",
+		"make_id" : 38
+	},
+	{
+		"ID" : 742,
+		"name" : "MKX",
+		"code" : "MKX",
+		"make_id" : 38
+	},
+	{
+		"ID" : 743,
+		"name" : "MKZ",
+		"code" : "MKZ",
+		"make_id" : 38
+	},
+	{
+		"ID" : 744,
+		"name" : "Navigator",
+		"code" : "NAVIGA",
+		"make_id" : 38
+	},
+	{
+		"ID" : 745,
+		"name" : "Navigator L",
+		"code" : "NAVIGAL",
+		"make_id" : 38
+	},
+	{
+		"ID" : 746,
+		"name" : "Town Car",
+		"code" : "LINCTC",
+		"make_id" : 38
+	},
+	{
+		"ID" : 747,
+		"name" : "Zephyr",
+		"code" : "ZEPHYR",
+		"make_id" : 38
+	},
+	{
+		"ID" : 748,
+		"name" : "Other Lincoln Models",
+		"code" : "LINOTH",
+		"make_id" : 38
+	},
+	{
+		"ID" : 749,
+		"name" : "Elan",
+		"code" : "ELAN",
+		"make_id" : 39
+	},
+	{
+		"ID" : 750,
+		"name" : "Elise",
+		"code" : "LOTELISE",
+		"make_id" : 39
+	},
+	{
+		"ID" : 751,
+		"name" : "Esprit",
+		"code" : "ESPRIT",
+		"make_id" : 39
+	},
+	{
+		"ID" : 752,
+		"name" : "Evora",
+		"code" : "EVORA",
+		"make_id" : 39
+	},
+	{
+		"ID" : 753,
+		"name" : "Exige",
+		"code" : "EXIGE",
+		"make_id" : 39
+	},
+	{
+		"ID" : 754,
+		"name" : "Other Lotus Models",
+		"code" : "UNAVAILLOT",
+		"make_id" : 39
+	},
+	{
+		"ID" : 755,
+		"name" : "430",
+		"code" : "430",
+		"make_id" : 40
+	},
+	{
+		"ID" : 756,
+		"name" : "Biturbo",
+		"code" : "BITRBO",
+		"make_id" : 40
+	},
+	{
+		"ID" : 757,
+		"name" : "Coupe",
+		"code" : "COUPEMAS",
+		"make_id" : 40
+	},
+	{
+		"ID" : 758,
+		"name" : "GranSport",
+		"code" : "GRANSPORT",
+		"make_id" : 40
+	},
+	{
+		"ID" : 759,
+		"name" : "GranTurismo",
+		"code" : "GRANTURISM",
+		"make_id" : 40
+	},
+	{
+		"ID" : 760,
+		"name" : "Quattroporte",
+		"code" : "QP",
+		"make_id" : 40
+	},
+	{
+		"ID" : 761,
+		"name" : "Spyder",
+		"code" : "SPYDER",
+		"make_id" : 40
+	},
+	{
+		"ID" : 762,
+		"name" : "Other Maserati Models",
+		"code" : "UNAVAILMAS",
+		"make_id" : 40
+	},
+	{
+		"ID" : 763,
+		"name" : "57",
+		"code" : "57MAYBACH",
+		"make_id" : 41
+	},
+	{
+		"ID" : 764,
+		"name" : "62",
+		"code" : "62MAYBACH",
+		"make_id" : 41
+	},
+	{
+		"ID" : 765,
+		"name" : "Other Maybach Models",
+		"code" : "UNAVAILMAY",
+		"make_id" : 41
+	},
+	{
+		"ID" : 766,
+		"name" : "323",
+		"code" : "MAZDA323",
+		"make_id" : 42
+	},
+	{
+		"ID" : 767,
+		"name" : "626",
+		"code" : "MAZDA626",
+		"make_id" : 42
+	},
+	{
+		"ID" : 768,
+		"name" : "929",
+		"code" : "929",
+		"make_id" : 42
+	},
+	{
+		"ID" : 769,
+		"name" : "B-Series Pickup",
+		"code" : "B-SERIES",
+		"make_id" : 42
+	},
+	{
+		"ID" : 770,
+		"name" : "CX-5",
+		"code" : "CX-5",
+		"make_id" : 42
+	},
+	{
+		"ID" : 771,
+		"name" : "CX-7",
+		"code" : "CX-7",
+		"make_id" : 42
+	},
+	{
+		"ID" : 772,
+		"name" : "CX-9",
+		"code" : "CX-9",
+		"make_id" : 42
+	},
+	{
+		"ID" : 773,
+		"name" : "GLC",
+		"code" : "GLC",
+		"make_id" : 42
+	},
+	{
+		"ID" : 774,
+		"name" : "MAZDA2",
+		"code" : "MAZDA2",
+		"make_id" : 42
+	},
+	{
+		"ID" : 775,
+		"name" : "MAZDA3",
+		"code" : "MAZDA3",
+		"make_id" : 42
+	},
+	{
+		"ID" : 776,
+		"name" : "MAZDA5",
+		"code" : "MAZDA5",
+		"make_id" : 42
+	},
+	{
+		"ID" : 777,
+		"name" : "MAZDA6",
+		"code" : "MAZDA6",
+		"make_id" : 42
+	},
+	{
+		"ID" : 778,
+		"name" : "MAZDASPEED3",
+		"code" : "MAZDASPD3",
+		"make_id" : 42
+	},
+	{
+		"ID" : 779,
+		"name" : "MAZDASPEED6",
+		"code" : "MAZDASPD6",
+		"make_id" : 42
+	},
+	{
+		"ID" : 780,
+		"name" : "Miata MX5",
+		"code" : "MIATA",
+		"make_id" : 42
+	},
+	{
+		"ID" : 781,
+		"name" : "Millenia",
+		"code" : "MILL",
+		"make_id" : 42
+	},
+	{
+		"ID" : 782,
+		"name" : "MPV",
+		"code" : "MPV",
+		"make_id" : 42
+	},
+	{
+		"ID" : 783,
+		"name" : "MX3",
+		"code" : "MX3",
+		"make_id" : 42
+	},
+	{
+		"ID" : 784,
+		"name" : "MX6",
+		"code" : "MX6",
+		"make_id" : 42
+	},
+	{
+		"ID" : 785,
+		"name" : "Navajo",
+		"code" : "NAVAJO",
+		"make_id" : 42
+	},
+	{
+		"ID" : 786,
+		"name" : "Protege",
+		"code" : "PROTE",
+		"make_id" : 42
+	},
+	{
+		"ID" : 787,
+		"name" : "Protege5",
+		"code" : "PROTE5",
+		"make_id" : 42
+	},
+	{
+		"ID" : 788,
+		"name" : "RX-7",
+		"code" : "RX7",
+		"make_id" : 42
+	},
+	{
+		"ID" : 789,
+		"name" : "RX-8",
+		"code" : "RX8",
+		"make_id" : 42
+	},
+	{
+		"ID" : 790,
+		"name" : "Tribute",
+		"code" : "TRIBUTE",
+		"make_id" : 42
+	},
+	{
+		"ID" : 791,
+		"name" : "Other Mazda Models",
+		"code" : "MAZOTH",
+		"make_id" : 42
+	},
+	{
+		"ID" : 792,
+		"name" : "MP4-12C",
+		"code" : "MP4",
+		"make_id" : 43
+	},
+	{
+		"ID" : 793,
+		"name" : "190 Class (2)",
+		"code" : "190_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 794,
+		"name" : " - 190D",
+		"code" : "190D",
+		"make_id" : 44
+	},
+	{
+		"ID" : 795,
+		"name" : " - 190E",
+		"code" : "190E",
+		"make_id" : 44
+	},
+	{
+		"ID" : 796,
+		"name" : "240 Class (1)",
+		"code" : "240_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 797,
+		"name" : " - 240D",
+		"code" : "240D",
+		"make_id" : 44
+	},
+	{
+		"ID" : 798,
+		"name" : "300 Class / E Class (6)",
+		"code" : "300_CLASS_E_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 799,
+		"name" : " - 300CD",
+		"code" : "300CD",
+		"make_id" : 44
+	},
+	{
+		"ID" : 800,
+		"name" : " - 300CE",
+		"code" : "300CE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 801,
+		"name" : " - 300D",
+		"code" : "300D",
+		"make_id" : 44
+	},
+	{
+		"ID" : 802,
+		"name" : " - 300E",
+		"code" : "300E",
+		"make_id" : 44
+	},
+	{
+		"ID" : 803,
+		"name" : " - 300TD",
+		"code" : "300TD",
+		"make_id" : 44
+	},
+	{
+		"ID" : 804,
+		"name" : " - 300TE",
+		"code" : "300TE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 805,
+		"name" : "C Class (13)",
+		"code" : "C_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 806,
+		"name" : " - C220",
+		"code" : "C220",
+		"make_id" : 44
+	},
+	{
+		"ID" : 807,
+		"name" : " - C230",
+		"code" : "C230",
+		"make_id" : 44
+	},
+	{
+		"ID" : 808,
+		"name" : " - C240",
+		"code" : "C240",
+		"make_id" : 44
+	},
+	{
+		"ID" : 809,
+		"name" : " - C250",
+		"code" : "C250",
+		"make_id" : 44
+	},
+	{
+		"ID" : 810,
+		"name" : " - C280",
+		"code" : "C280",
+		"make_id" : 44
+	},
+	{
+		"ID" : 811,
+		"name" : " - C300",
+		"code" : "C300",
+		"make_id" : 44
+	},
+	{
+		"ID" : 812,
+		"name" : " - C320",
+		"code" : "C320",
+		"make_id" : 44
+	},
+	{
+		"ID" : 813,
+		"name" : " - C32 AMG",
+		"code" : "C32AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 814,
+		"name" : " - C350",
+		"code" : "C350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 815,
+		"name" : " - C36 AMG",
+		"code" : "C36AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 816,
+		"name" : " - C43 AMG",
+		"code" : "C43AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 817,
+		"name" : " - C55 AMG",
+		"code" : "C55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 818,
+		"name" : " - C63 AMG",
+		"code" : "C63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 819,
+		"name" : "CL Class (6)",
+		"code" : "CL_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 820,
+		"name" : " - CL500",
+		"code" : "CL500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 821,
+		"name" : " - CL550",
+		"code" : "CL550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 822,
+		"name" : " - CL55 AMG",
+		"code" : "CL55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 823,
+		"name" : " - CL600",
+		"code" : "CL600",
+		"make_id" : 44
+	},
+	{
+		"ID" : 824,
+		"name" : " - CL63 AMG",
+		"code" : "CL63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 825,
+		"name" : " - CL65 AMG",
+		"code" : "CL65AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 826,
+		"name" : "CLK Class (7)",
+		"code" : "CLK_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 827,
+		"name" : " - CLK320",
+		"code" : "CLK320",
+		"make_id" : 44
+	},
+	{
+		"ID" : 828,
+		"name" : " - CLK350",
+		"code" : "CLK350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 829,
+		"name" : " - CLK430",
+		"code" : "CLK430",
+		"make_id" : 44
+	},
+	{
+		"ID" : 830,
+		"name" : " - CLK500",
+		"code" : "CLK500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 831,
+		"name" : " - CLK550",
+		"code" : "CLK550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 832,
+		"name" : " - CLK55 AMG",
+		"code" : "CLK55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 833,
+		"name" : " - CLK63 AMG",
+		"code" : "CLK63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 834,
+		"name" : "CLS Class (4)",
+		"code" : "CLS_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 835,
+		"name" : " - CLS500",
+		"code" : "CLS500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 836,
+		"name" : " - CLS550",
+		"code" : "CLS550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 837,
+		"name" : " - CLS55 AMG",
+		"code" : "CLS55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 838,
+		"name" : " - CLS63 AMG",
+		"code" : "CLS63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 839,
+		"name" : "E Class (18)",
+		"code" : "E_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 840,
+		"name" : " - 260E",
+		"code" : "260E",
+		"make_id" : 44
+	},
+	{
+		"ID" : 841,
+		"name" : " - 280CE",
+		"code" : "280CE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 842,
+		"name" : " - 280E",
+		"code" : "280E",
+		"make_id" : 44
+	},
+	{
+		"ID" : 843,
+		"name" : " - 400E",
+		"code" : "400E",
+		"make_id" : 44
+	},
+	{
+		"ID" : 844,
+		"name" : " - 500E",
+		"code" : "500E",
+		"make_id" : 44
+	},
+	{
+		"ID" : 845,
+		"name" : " - E300",
+		"code" : "E300",
+		"make_id" : 44
+	},
+	{
+		"ID" : 846,
+		"name" : " - E320",
+		"code" : "E320",
+		"make_id" : 44
+	},
+	{
+		"ID" : 847,
+		"name" : " - E320 Bluetec",
+		"code" : "E320BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 848,
+		"name" : " - E320 CDI",
+		"code" : "E320CDI",
+		"make_id" : 44
+	},
+	{
+		"ID" : 849,
+		"name" : " - E350",
+		"code" : "E350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 850,
+		"name" : " - E350 Bluetec",
+		"code" : "E350BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 851,
+		"name" : " - E400 Hybrid",
+		"code" : "E400",
+		"make_id" : 44
+	},
+	{
+		"ID" : 852,
+		"name" : " - E420",
+		"code" : "E420",
+		"make_id" : 44
+	},
+	{
+		"ID" : 853,
+		"name" : " - E430",
+		"code" : "E430",
+		"make_id" : 44
+	},
+	{
+		"ID" : 854,
+		"name" : " - E500",
+		"code" : "E500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 855,
+		"name" : " - E550",
+		"code" : "E550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 856,
+		"name" : " - E55 AMG",
+		"code" : "E55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 857,
+		"name" : " - E63 AMG",
+		"code" : "E63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 858,
+		"name" : "G Class (4)",
+		"code" : "G_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 859,
+		"name" : " - G500",
+		"code" : "G500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 860,
+		"name" : " - G550",
+		"code" : "G550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 861,
+		"name" : " - G55 AMG",
+		"code" : "G55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 862,
+		"name" : " - G63 AMG",
+		"code" : "G63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 863,
+		"name" : "GL Class (5)",
+		"code" : "GL_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 864,
+		"name" : " - GL320 Bluetec",
+		"code" : "GL320BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 865,
+		"name" : " - GL320 CDI",
+		"code" : "GL320CDI",
+		"make_id" : 44
+	},
+	{
+		"ID" : 866,
+		"name" : " - GL350 Bluetec",
+		"code" : "GL350BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 867,
+		"name" : " - GL450",
+		"code" : "GL450",
+		"make_id" : 44
+	},
+	{
+		"ID" : 868,
+		"name" : " - GL550",
+		"code" : "GL550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 869,
+		"name" : "GLK Class (1)",
+		"code" : "GLK_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 870,
+		"name" : " - GLK350",
+		"code" : "GLK350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 871,
+		"name" : "M Class (11)",
+		"code" : "M_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 872,
+		"name" : " - ML320",
+		"code" : "ML320",
+		"make_id" : 44
+	},
+	{
+		"ID" : 873,
+		"name" : " - ML320 Bluetec",
+		"code" : "ML320BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 874,
+		"name" : " - ML320 CDI",
+		"code" : "ML320CDI",
+		"make_id" : 44
+	},
+	{
+		"ID" : 875,
+		"name" : " - ML350",
+		"code" : "ML350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 876,
+		"name" : " - ML350 Bluetec",
+		"code" : "ML350BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 877,
+		"name" : " - ML430",
+		"code" : "ML430",
+		"make_id" : 44
+	},
+	{
+		"ID" : 878,
+		"name" : " - ML450 Hybrid",
+		"code" : "ML450HY",
+		"make_id" : 44
+	},
+	{
+		"ID" : 879,
+		"name" : " - ML500",
+		"code" : "ML500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 880,
+		"name" : " - ML550",
+		"code" : "ML550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 881,
+		"name" : " - ML55 AMG",
+		"code" : "ML55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 882,
+		"name" : " - ML63 AMG",
+		"code" : "ML63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 883,
+		"name" : "R Class (6)",
+		"code" : "R_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 884,
+		"name" : " - R320 Bluetec",
+		"code" : "R320BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 885,
+		"name" : " - R320 CDI",
+		"code" : "R320CDI",
+		"make_id" : 44
+	},
+	{
+		"ID" : 886,
+		"name" : " - R350",
+		"code" : "R350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 887,
+		"name" : " - R350 Bluetec",
+		"code" : "R350BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 888,
+		"name" : " - R500",
+		"code" : "R500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 889,
+		"name" : " - R63 AMG",
+		"code" : "R63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 890,
+		"name" : "S Class (30)",
+		"code" : "S_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 891,
+		"name" : " - 300SD",
+		"code" : "300SD",
+		"make_id" : 44
+	},
+	{
+		"ID" : 892,
+		"name" : " - 300SDL",
+		"code" : "300SDL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 893,
+		"name" : " - 300SE",
+		"code" : "300SE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 894,
+		"name" : " - 300SEL",
+		"code" : "300SEL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 895,
+		"name" : " - 350SD",
+		"code" : "350SD",
+		"make_id" : 44
+	},
+	{
+		"ID" : 896,
+		"name" : " - 350SDL",
+		"code" : "350SDL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 897,
+		"name" : " - 380SE",
+		"code" : "380SE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 898,
+		"name" : " - 380SEC",
+		"code" : "380SEC",
+		"make_id" : 44
+	},
+	{
+		"ID" : 899,
+		"name" : " - 380SEL",
+		"code" : "380SEL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 900,
+		"name" : " - 400SE",
+		"code" : "400SE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 901,
+		"name" : " - 400SEL",
+		"code" : "400SEL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 902,
+		"name" : " - 420SEL",
+		"code" : "420SEL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 903,
+		"name" : " - 500SEC",
+		"code" : "500SEC",
+		"make_id" : 44
+	},
+	{
+		"ID" : 904,
+		"name" : " - 500SEL",
+		"code" : "500SEL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 905,
+		"name" : " - 560SEC",
+		"code" : "560SEC",
+		"make_id" : 44
+	},
+	{
+		"ID" : 906,
+		"name" : " - 560SEL",
+		"code" : "560SEL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 907,
+		"name" : " - 600SEC",
+		"code" : "600SEC",
+		"make_id" : 44
+	},
+	{
+		"ID" : 908,
+		"name" : " - 600SEL",
+		"code" : "600SEL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 909,
+		"name" : " - S320",
+		"code" : "S320",
+		"make_id" : 44
+	},
+	{
+		"ID" : 910,
+		"name" : " - S350",
+		"code" : "S350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 911,
+		"name" : " - S350 Bluetec",
+		"code" : "S350BLUE",
+		"make_id" : 44
+	},
+	{
+		"ID" : 912,
+		"name" : " - S400 Hybrid",
+		"code" : "S400HY",
+		"make_id" : 44
+	},
+	{
+		"ID" : 913,
+		"name" : " - S420",
+		"code" : "S420",
+		"make_id" : 44
+	},
+	{
+		"ID" : 914,
+		"name" : " - S430",
+		"code" : "S430",
+		"make_id" : 44
+	},
+	{
+		"ID" : 915,
+		"name" : " - S500",
+		"code" : "S500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 916,
+		"name" : " - S550",
+		"code" : "S550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 917,
+		"name" : " - S55 AMG",
+		"code" : "S55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 918,
+		"name" : " - S600",
+		"code" : "S600",
+		"make_id" : 44
+	},
+	{
+		"ID" : 919,
+		"name" : " - S63 AMG",
+		"code" : "S63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 920,
+		"name" : " - S65 AMG",
+		"code" : "S65AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 921,
+		"name" : "SL Class (13)",
+		"code" : "SL_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 922,
+		"name" : " - 300SL",
+		"code" : "300SL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 923,
+		"name" : " - 380SL",
+		"code" : "380SL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 924,
+		"name" : " - 380SLC",
+		"code" : "380SLC",
+		"make_id" : 44
+	},
+	{
+		"ID" : 925,
+		"name" : " - 500SL",
+		"code" : "500SL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 926,
+		"name" : " - 560SL",
+		"code" : "560SL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 927,
+		"name" : " - 600SL",
+		"code" : "600SL",
+		"make_id" : 44
+	},
+	{
+		"ID" : 928,
+		"name" : " - SL320",
+		"code" : "SL320",
+		"make_id" : 44
+	},
+	{
+		"ID" : 929,
+		"name" : " - SL500",
+		"code" : "SL500",
+		"make_id" : 44
+	},
+	{
+		"ID" : 930,
+		"name" : " - SL550",
+		"code" : "SL550",
+		"make_id" : 44
+	},
+	{
+		"ID" : 931,
+		"name" : " - SL55 AMG",
+		"code" : "SL55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 932,
+		"name" : " - SL600",
+		"code" : "SL600",
+		"make_id" : 44
+	},
+	{
+		"ID" : 933,
+		"name" : " - SL63 AMG",
+		"code" : "SL63AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 934,
+		"name" : " - SL65 AMG",
+		"code" : "SL65AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 935,
+		"name" : "SLK Class (8)",
+		"code" : "SLK_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 936,
+		"name" : " - SLK230",
+		"code" : "SLK230",
+		"make_id" : 44
+	},
+	{
+		"ID" : 937,
+		"name" : " - SLK250",
+		"code" : "SLK250",
+		"make_id" : 44
+	},
+	{
+		"ID" : 938,
+		"name" : " - SLK280",
+		"code" : "SLK280",
+		"make_id" : 44
+	},
+	{
+		"ID" : 939,
+		"name" : " - SLK300",
+		"code" : "SLK300",
+		"make_id" : 44
+	},
+	{
+		"ID" : 940,
+		"name" : " - SLK320",
+		"code" : "SLK320",
+		"make_id" : 44
+	},
+	{
+		"ID" : 941,
+		"name" : " - SLK32 AMG",
+		"code" : "SLK32AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 942,
+		"name" : " - SLK350",
+		"code" : "SLK350",
+		"make_id" : 44
+	},
+	{
+		"ID" : 943,
+		"name" : " - SLK55 AMG",
+		"code" : "SLK55AMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 944,
+		"name" : "SLR Class (1)",
+		"code" : "SLR_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 945,
+		"name" : " - SLR",
+		"code" : "SLR",
+		"make_id" : 44
+	},
+	{
+		"ID" : 946,
+		"name" : "SLS Class (1)",
+		"code" : "SLS_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 947,
+		"name" : " - SLS AMG",
+		"code" : "SLSAMG",
+		"make_id" : 44
+	},
+	{
+		"ID" : 948,
+		"name" : "Sprinter Class (1)",
+		"code" : "SPRINTER_CLASS",
+		"make_id" : 44
+	},
+	{
+		"ID" : 949,
+		"name" : " - Sprinter",
+		"code" : "MBSPRINTER",
+		"make_id" : 44
+	},
+	{
+		"ID" : 950,
+		"name" : "Other Mercedes-Benz Models",
+		"code" : "MBOTH",
+		"make_id" : 44
+	},
+	{
+		"ID" : 951,
+		"name" : "Capri",
+		"code" : "CAPRI",
+		"make_id" : 45
+	},
+	{
+		"ID" : 952,
+		"name" : "Cougar",
+		"code" : "COUGAR",
+		"make_id" : 45
+	},
+	{
+		"ID" : 953,
+		"name" : "Grand Marquis",
+		"code" : "MERCGRAND",
+		"make_id" : 45
+	},
+	{
+		"ID" : 954,
+		"name" : "Lynx",
+		"code" : "LYNX",
+		"make_id" : 45
+	},
+	{
+		"ID" : 955,
+		"name" : "Marauder",
+		"code" : "MARAUDER",
+		"make_id" : 45
+	},
+	{
+		"ID" : 956,
+		"name" : "Mariner",
+		"code" : "MARINER",
+		"make_id" : 45
+	},
+	{
+		"ID" : 957,
+		"name" : "Marquis",
+		"code" : "MARQ",
+		"make_id" : 45
+	},
+	{
+		"ID" : 958,
+		"name" : "Milan",
+		"code" : "MILAN",
+		"make_id" : 45
+	},
+	{
+		"ID" : 959,
+		"name" : "Montego",
+		"code" : "MONTEGO",
+		"make_id" : 45
+	},
+	{
+		"ID" : 960,
+		"name" : "Monterey",
+		"code" : "MONTEREY",
+		"make_id" : 45
+	},
+	{
+		"ID" : 961,
+		"name" : "Mountaineer",
+		"code" : "MOUNTA",
+		"make_id" : 45
+	},
+	{
+		"ID" : 962,
+		"name" : "Mystique",
+		"code" : "MYSTIQ",
+		"make_id" : 45
+	},
+	{
+		"ID" : 963,
+		"name" : "Sable",
+		"code" : "SABLE",
+		"make_id" : 45
+	},
+	{
+		"ID" : 964,
+		"name" : "Topaz",
+		"code" : "TOPAZ",
+		"make_id" : 45
+	},
+	{
+		"ID" : 965,
+		"name" : "Tracer",
+		"code" : "TRACER",
+		"make_id" : 45
+	},
+	{
+		"ID" : 966,
+		"name" : "Villager",
+		"code" : "VILLA",
+		"make_id" : 45
+	},
+	{
+		"ID" : 967,
+		"name" : "Zephyr",
+		"code" : "MERCZEP",
+		"make_id" : 45
+	},
+	{
+		"ID" : 968,
+		"name" : "Other Mercury Models",
+		"code" : "MEOTH",
+		"make_id" : 45
+	},
+	{
+		"ID" : 969,
+		"name" : "Scorpio",
+		"code" : "SCORP",
+		"make_id" : 46
+	},
+	{
+		"ID" : 970,
+		"name" : "XR4Ti",
+		"code" : "XR4TI",
+		"make_id" : 46
+	},
+	{
+		"ID" : 971,
+		"name" : "Other Merkur Models",
+		"code" : "MEROTH",
+		"make_id" : 46
+	},
+	{
+		"ID" : 972,
+		"name" : "Cooper Clubman Models (2)",
+		"code" : "COOPRCLUB_MODELS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 973,
+		"name" : " - Cooper Clubman",
+		"code" : "COOPERCLUB",
+		"make_id" : 47
+	},
+	{
+		"ID" : 974,
+		"name" : " - Cooper S Clubman",
+		"code" : "COOPRCLUBS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 975,
+		"name" : "Cooper Countryman Models (2)",
+		"code" : "COOPCOUNTRY_MODELS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 976,
+		"name" : " - Cooper Countryman",
+		"code" : "COUNTRYMAN",
+		"make_id" : 47
+	},
+	{
+		"ID" : 977,
+		"name" : " - Cooper S Countryman",
+		"code" : "COUNTRYMNS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 978,
+		"name" : "Cooper Coupe Models (2)",
+		"code" : "COOPCOUP_MODELS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 979,
+		"name" : " - Cooper Coupe",
+		"code" : "MINICOUPE",
+		"make_id" : 47
+	},
+	{
+		"ID" : 980,
+		"name" : " - Cooper S Coupe",
+		"code" : "MINISCOUPE",
+		"make_id" : 47
+	},
+	{
+		"ID" : 981,
+		"name" : "Cooper Models (2)",
+		"code" : "COOPER_MODELS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 982,
+		"name" : " - Cooper",
+		"code" : "COOPER",
+		"make_id" : 47
+	},
+	{
+		"ID" : 983,
+		"name" : " - Cooper S",
+		"code" : "COOPERS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 984,
+		"name" : "Cooper Roadster Models (2)",
+		"code" : "COOPRROAD_MODELS",
+		"make_id" : 47
+	},
+	{
+		"ID" : 985,
+		"name" : " - Cooper Roadster",
+		"code" : "COOPERROAD",
+		"make_id" : 47
+	},
+	{
+		"ID" : 986,
+		"name" : " - Cooper S Roadster",
+		"code" : "COOPERSRD",
+		"make_id" : 47
+	},
+	{
+		"ID" : 987,
+		"name" : "3000GT",
+		"code" : "3000GT",
+		"make_id" : 48
+	},
+	{
+		"ID" : 988,
+		"name" : "Cordia",
+		"code" : "CORD",
+		"make_id" : 48
+	},
+	{
+		"ID" : 989,
+		"name" : "Diamante",
+		"code" : "DIAMAN",
+		"make_id" : 48
+	},
+	{
+		"ID" : 990,
+		"name" : "Eclipse",
+		"code" : "ECLIP",
+		"make_id" : 48
+	},
+	{
+		"ID" : 991,
+		"name" : "Endeavor",
+		"code" : "ENDEAVOR",
+		"make_id" : 48
+	},
+	{
+		"ID" : 992,
+		"name" : "Expo",
+		"code" : "MITEXP",
+		"make_id" : 48
+	},
+	{
+		"ID" : 993,
+		"name" : "Galant",
+		"code" : "GALANT",
+		"make_id" : 48
+	},
+	{
+		"ID" : 994,
+		"name" : "i",
+		"code" : "MITI",
+		"make_id" : 48
+	},
+	{
+		"ID" : 995,
+		"name" : "Lancer",
+		"code" : "LANCERMITS",
+		"make_id" : 48
+	},
+	{
+		"ID" : 996,
+		"name" : "Lancer Evolution",
+		"code" : "LANCEREVO",
+		"make_id" : 48
+	},
+	{
+		"ID" : 997,
+		"name" : "Mighty Max",
+		"code" : "MITPU",
+		"make_id" : 48
+	},
+	{
+		"ID" : 998,
+		"name" : "Mirage",
+		"code" : "MIRAGE",
+		"make_id" : 48
+	},
+	{
+		"ID" : 999,
+		"name" : "Montero",
+		"code" : "MONT",
+		"make_id" : 48
+	},
+	{
+		"ID" : 1000,
+		"name" : "Montero Sport",
+		"code" : "MONTSPORT",
+		"make_id" : 48
+	}
+]
