@@ -7,5 +7,17 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/car_dealership</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="MongoDB - CarDealership@mongodbclustersd20i.r6byx.mongodb.net" uuid="432026f4-a821-4502-bfd6-a2bf5f12dc6c">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb+srv://mongodbclustersd20i.r6byx.mongodb.net/CarDealership?retryWrites=true&amp;w=majority</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="5b8fee6f-232b-42d3-931d-b3facf75d7c1">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://localhost:27017</jdbc-url>
+    </data-source>
   </component>
 </project>
