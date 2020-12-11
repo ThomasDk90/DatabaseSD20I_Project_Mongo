@@ -1,3 +1,4 @@
+/*
 package com.dbproject.security;
 
 import com.dbproject.entities.Role;
@@ -56,3 +57,4 @@ public class UserPrincipal implements UserDetails {
         return true;
     }
 }
+*/

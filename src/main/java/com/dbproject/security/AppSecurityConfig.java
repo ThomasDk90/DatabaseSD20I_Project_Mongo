@@ -1,3 +1,4 @@
+/*
 package com.dbproject.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -55,3 +56,4 @@ public class AppSecurityConfig extends WebSecurityConfigurerAdapter {
 
     }
 }
+*/

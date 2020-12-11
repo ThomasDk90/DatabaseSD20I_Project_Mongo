@@ -4,21 +4,52 @@ import com.dbproject.entities.Users;
 import com.dbproject.repositories.LocationRepository;
 import com.dbproject.repositories.UsersRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
+import java.util.ArrayList;
+import java.util.List;
 
-
-@Controller
+@CrossOrigin(origins = "http://localhost:8081")
+@RestController
+@RequestMapping("/api")
 public class UsersController {
 
     @Autowired
-    private final UsersRepository usersRepository;
+    UsersRepository usersRepository;
 
-    @Autowired
-    private final LocationRepository locationRepository;
+/*    @Autowired
+    LocationRepository locationRepository;*/
 
-    public UsersController(UsersRepository usersRepository, LocationRepository locationRepository) {
+    @GetMapping("/user")
+    public ResponseEntity<List<Users>> getAllUsers() {
+        try {
+            List<Users> users = new ArrayList<>();
+            users.addAll(usersRepository.findAll());
+
+            if (users.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+
+            return new ResponseEntity<>(users, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @PostMapping("/user")
+    public ResponseEntity<Users> createCustomer(@RequestBody Users user) {
+        try {
+            Users userSaved = usersRepository.save(user);
+            return new ResponseEntity<>(userSaved, HttpStatus.CREATED);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    /*public UsersController(UsersRepository usersRepository, LocationRepository locationRepository) {
         this.usersRepository = usersRepository;
         this.locationRepository = locationRepository;
     }
@@ -51,6 +82,6 @@ public class UsersController {
 
         return "misc/Success";
 
-    }
+    }*/
 
 }

@@ -40,7 +40,7 @@ public class OrdersControllers {
         return "orders/singleOrder";
     }
 */
-
+/*
     @RequestMapping("/vehicle/order/{id}")
     public String delVehicle(@PathVariable Long id, Model mOdel) {
 
@@ -80,6 +80,6 @@ public class OrdersControllers {
 
         return currentUser;
 
-    }
+    }*/
 
 }

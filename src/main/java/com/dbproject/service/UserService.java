@@ -1,3 +1,4 @@
+/*
 package com.dbproject.service;
 
 import com.dbproject.entities.Users;
@@ -11,3 +12,4 @@ public interface UserService {
     void saveUser(Users user);
 
 }
+*/

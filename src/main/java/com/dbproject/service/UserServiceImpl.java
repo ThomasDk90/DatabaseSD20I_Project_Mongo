@@ -1,3 +1,4 @@
+/*
 package com.dbproject.service;
 
 import com.dbproject.entities.Users;
@@ -26,3 +27,4 @@ public class UserServiceImpl implements UserService {
         this.usersRepository.save(user);
     }
 }
+*/

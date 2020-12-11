@@ -1,7 +1,7 @@
 package com.dbproject.repositories;
 
 import com.dbproject.entities.Location;
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.mongodb.repository.MongoRepository;
 
-public interface LocationRepository extends CrudRepository<Location,Long> {
+public interface LocationRepository extends MongoRepository<Location,String> {
 }

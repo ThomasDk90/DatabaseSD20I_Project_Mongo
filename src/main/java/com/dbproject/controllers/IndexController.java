@@ -33,14 +33,14 @@ public class IndexController {
 
         Principal principal = request.getUserPrincipal();
         currentUserName = principal.getName();
-        currentUser = usersRepository.findByUserName(currentUserName);
+/*        currentUser = usersRepository.findByUserName(currentUserName);*/
         model.addAttribute("currentUser", currentUser);
 
         model.addAttribute("vehicles" , vehiclesRepository.findAll());
         return "carDealerView/carDealerView";
     }
 
-    @RequestMapping("/login")
+/*    @RequestMapping("/login")
     public String loginPage(){
         return "public/login";
     }
@@ -48,5 +48,5 @@ public class IndexController {
     @RequestMapping("/logout")
     public String logoutPage(){
         return "public/logout";
-    }
+    }*/
 }

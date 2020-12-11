@@ -61,7 +61,7 @@ public class VehicleController {
         return "vehicles/delCar";
     }
 
-    @PostMapping("/saveVehicle")
+  /*  @PostMapping("/saveVehicle")
     public String saveVehicle(@ModelAttribute("newVehicle") Vehicle vehicle, HttpServletRequest request){ //Model attribute bids the form data to the object
         //save vehicle to db
         Users user = retriveUser(request);
@@ -71,8 +71,9 @@ public class VehicleController {
 
         return "misc/Success";
 
-    }
+    }*/
 
+/*
     public Users retriveUser(HttpServletRequest request) {
 
         String currentUserName;
@@ -84,5 +85,6 @@ public class VehicleController {
         return currentUser;
 
     }
+*/
 
 }
