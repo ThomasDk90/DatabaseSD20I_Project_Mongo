@@ -1,0 +1,315 @@
+[{
+  "_id": {
+    "$oid": "5fd2967ebc4b7307ec5f284e"
+  },
+  "ID": 1,
+  "user_name": "barracuda",
+  "rating": null,
+  "password": "password1",
+  "email": "barracuda@emailformat.com",
+  "location_ID": 1,
+  "role_ID": 1,
+  "order": [
+    {
+      "id": 1,
+      "date": "2020-12-08",
+      "value": 15000,
+      "buyer_id": 1,
+      "seller_id": 2,
+      "vehicle_ID": 2,
+      "payment_type": [
+        {
+          "ID": 1,
+          "type": "CASH"
+        },
+        {
+          "ID": 2,
+          "type": "MC"
+        },
+        {
+          "ID": 3,
+          "type": "visa"
+        },
+        {
+          "ID": 4,
+          "type": "AMEX"
+        }
+      ],
+      "payment_type_id": 1,
+      "invoice": [
+        {
+          "ID": 1,
+          "date": "2020-12-08",
+          "amount": 5000
+        },
+        {
+          "ID": 2,
+          "date": "2021-01-08",
+          "amount": 5000
+        },
+        {
+          "ID": 3,
+          "date": "2021-02-08",
+          "amount": 5000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2020-12-28",
+      "value": 25000,
+      "buyer_id": 1,
+      "seller_id": 2,
+      "vehicle_ID": 1,
+      "payment_type": [
+        {
+          "ID": 1,
+          "type": "CASH"
+        },
+        {
+          "ID": 2,
+          "type": "MC"
+        },
+        {
+          "ID": 3,
+          "type": "visa"
+        },
+        {
+          "ID": 4,
+          "type": "AMEX"
+        }
+      ],
+      "payment_type_id": 3,
+      "invoice": [
+        {
+          "ID": 1,
+          "date": "2020-12-28",
+          "amount": 8.333
+        },
+        {
+          "ID": 2,
+          "date": "2021-01-28",
+          "amount": 8.333
+        },
+        {
+          "ID": 3,
+          "date": "2021-02-28",
+          "amount": 8.334
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fd2967ebc4b7307ec5f284f"
+  },
+  "ID": 2,
+  "user_name": "highvoltage",
+  "rating": null,
+  "password": "password1",
+  "email": "highvoltage@emailformat.com",
+  "location_ID": 2,
+  "role_ID": 1,
+  "order": [
+    {
+      "id": 3,
+      "date": "2020-12-20",
+      "value": 25000,
+      "buyer_id": 2,
+      "seller_id": 1,
+      "vehicle_ID": 3,
+      "payment_type": [
+        {
+          "ID": 1,
+          "type": "CASH"
+        },
+        {
+          "ID": 2,
+          "type": "MC"
+        },
+        {
+          "ID": 3,
+          "type": "visa"
+        },
+        {
+          "ID": 4,
+          "type": "AMEX"
+        }
+      ],
+      "payment_type_id": 2,
+      "invoice": [
+        {
+          "ID": 1,
+          "date": "2020-12-20",
+          "amount": 8.333
+        },
+        {
+          "ID": 2,
+          "date": "2021-01-20",
+          "amount": 8.333
+        },
+        {
+          "ID": 3,
+          "date": "2021-02-20",
+          "amount": 8.334
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2021-01-01",
+      "value": 24000,
+      "buyer_id": 2,
+      "seller_id": 1,
+      "vehicle_ID": 4,
+      "payment_type": [
+        {
+          "ID": 1,
+          "type": "CASH"
+        },
+        {
+          "ID": 2,
+          "type": "MC"
+        },
+        {
+          "ID": 3,
+          "type": "visa"
+        },
+        {
+          "ID": 4,
+          "type": "AMEX"
+        }
+      ],
+      "payment_type_id": 4,
+      "invoice": [
+        {
+          "ID": 1,
+          "date": "2021-02-01",
+          "amount": 8000
+        },
+        {
+          "ID": 2,
+          "date": "2021-03-01",
+          "amount": 8000
+        },
+        {
+          "ID": 3,
+          "date": "2021-04-01",
+          "amount": 8000
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fd2967ebc4b7307ec5f2850"
+  },
+  "ID": 3,
+  "user_name": "indominusAdmin",
+  "rating": null,
+  "password": "password1",
+  "email": "indominus@emailformat.com",
+  "location_ID": 3,
+  "role_ID": 2
+},{
+  "_id": {
+    "$oid": "5fd2982fbc4b7307ec5f286a"
+  },
+  "ID": 4,
+  "user_name": "testUser",
+  "rating": null,
+  "password": "password1",
+  "email": "testUser@emailformat.com",
+  "location_ID": 1,
+  "role_ID": 1,
+  "order": [
+    {
+      "id": 1,
+      "date": "2020-12-08",
+      "value": 15000,
+      "buyer_id": 1,
+      "seller_id": 2,
+      "vehicle_ID": 2,
+      "payment_type": [
+        {
+          "ID": 1,
+          "type": "CASH"
+        },
+        {
+          "ID": 2,
+          "type": "MC"
+        },
+        {
+          "ID": 3,
+          "type": "visa"
+        },
+        {
+          "ID": 4,
+          "type": "AMEX"
+        }
+      ],
+      "payment_type_id": 1,
+      "invoice": [
+        {
+          "ID": 1,
+          "date": "2020-12-08",
+          "amount": 5000
+        },
+        {
+          "ID": 2,
+          "date": "2021-01-08",
+          "amount": 5000
+        },
+        {
+          "ID": 3,
+          "date": "2021-02-08",
+          "amount": 5000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2020-12-28",
+      "value": 25000,
+      "buyer_id": 1,
+      "seller_id": 2,
+      "vehicle_ID": 1,
+      "payment_type": [
+        {
+          "ID": 1,
+          "type": "CASH"
+        },
+        {
+          "ID": 2,
+          "type": "MC"
+        },
+        {
+          "ID": 3,
+          "type": "visa"
+        },
+        {
+          "ID": 4,
+          "type": "AMEX"
+        }
+      ],
+      "payment_type_id": 3,
+      "invoice": [
+        {
+          "ID": 1,
+          "date": "2020-12-28",
+          "amount": 8.333
+        },
+        {
+          "ID": 2,
+          "date": "2021-01-28",
+          "amount": 8.333
+        },
+        {
+          "ID": 3,
+          "date": "2021-02-28",
+          "amount": 8.334
+        }
+      ]
+    }
+  ]
+}]

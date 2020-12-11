@@ -1,127 +1,176 @@
-[
-	{
-		"ID" : 1,
-		"postal_code" : 2500,
-		"name" : "Valby"
-	},
-	{
-		"ID" : 2,
-		"postal_code" : 2600,
-		"name" : "Glostrup"
-	},
-	{
-		"ID" : 3,
-		"postal_code" : 2605,
-		"name" : "Brøndby"
-	},
-	{
-		"ID" : 4,
-		"postal_code" : 2610,
-		"name" : "Rødovre"
-	},
-	{
-		"ID" : 5,
-		"postal_code" : 2620,
-		"name" : "Albertslund"
-	},
-	{
-		"ID" : 6,
-		"postal_code" : 2625,
-		"name" : "Vallensbæk"
-	},
-	{
-		"ID" : 7,
-		"postal_code" : 2630,
-		"name" : "Taastrup"
-	},
-	{
-		"ID" : 8,
-		"postal_code" : 2633,
-		"name" : "Taastrup"
-	},
-	{
-		"ID" : 9,
-		"postal_code" : 2635,
-		"name" : "Ishøj"
-	},
-	{
-		"ID" : 10,
-		"postal_code" : 2640,
-		"name" : "Hedehusene"
-	},
-	{
-		"ID" : 11,
-		"postal_code" : 2650,
-		"name" : "Hvidovre"
-	},
-	{
-		"ID" : 12,
-		"postal_code" : 2660,
-		"name" : "Brøndby Strand"
-	},
-	{
-		"ID" : 13,
-		"postal_code" : 2665,
-		"name" : "Vallensbæk Strand"
-	},
-	{
-		"ID" : 14,
-		"postal_code" : 2670,
-		"name" : "Greve"
-	},
-	{
-		"ID" : 15,
-		"postal_code" : 2680,
-		"name" : "Solrød Strand"
-	},
-	{
-		"ID" : 16,
-		"postal_code" : 2690,
-		"name" : "Karlslunde"
-	},
-	{
-		"ID" : 17,
-		"postal_code" : 2700,
-		"name" : "Brønshøj"
-	},
-	{
-		"ID" : 18,
-		"postal_code" : 2720,
-		"name" : "Vanløse"
-	},
-	{
-		"ID" : 19,
-		"postal_code" : 2730,
-		"name" : "Herlev"
-	},
-	{
-		"ID" : 20,
-		"postal_code" : 2740,
-		"name" : "Skovlunde"
-	},
-	{
-		"ID" : 21,
-		"postal_code" : 2750,
-		"name" : "Ballerup"
-	},
-	{
-		"ID" : 22,
-		"postal_code" : 2760,
-		"name" : "Måløv"
-	},
-	{
-		"ID" : 23,
-		"postal_code" : 2765,
-		"name" : "Smørum"
-	},
-	{
-		"ID" : 24,
-		"postal_code" : 2770,
-		"name" : "Kastrup"
-	},
-	{
-		"ID" : 25,
-		"postal_code" : 2791,
-		"name" : "Dragør"
-	}
-]
+[{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2851"
+  },
+  "ID": 1,
+  "postal_code": 2500,
+  "name": "Valby"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2852"
+  },
+  "ID": 2,
+  "postal_code": 2600,
+  "name": "Glostrup"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2853"
+  },
+  "ID": 3,
+  "postal_code": 2605,
+  "name": "Brøndby"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2854"
+  },
+  "ID": 4,
+  "postal_code": 2610,
+  "name": "Rødovre"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2855"
+  },
+  "ID": 5,
+  "postal_code": 2620,
+  "name": "Albertslund"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2856"
+  },
+  "ID": 6,
+  "postal_code": 2625,
+  "name": "Vallensbæk"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2857"
+  },
+  "ID": 7,
+  "postal_code": 2630,
+  "name": "Taastrup"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2858"
+  },
+  "ID": 8,
+  "postal_code": 2633,
+  "name": "Taastrup"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2859"
+  },
+  "ID": 9,
+  "postal_code": 2635,
+  "name": "Ishøj"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f285a"
+  },
+  "ID": 10,
+  "postal_code": 2640,
+  "name": "Hedehusene"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f285b"
+  },
+  "ID": 11,
+  "postal_code": 2650,
+  "name": "Hvidovre"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f285c"
+  },
+  "ID": 12,
+  "postal_code": 2660,
+  "name": "Brøndby Strand"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f285d"
+  },
+  "ID": 13,
+  "postal_code": 2665,
+  "name": "Vallensbæk Strand"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f285e"
+  },
+  "ID": 14,
+  "postal_code": 2670,
+  "name": "Greve"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f285f"
+  },
+  "ID": 15,
+  "postal_code": 2680,
+  "name": "Solrød Strand"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2860"
+  },
+  "ID": 16,
+  "postal_code": 2690,
+  "name": "Karlslunde"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2861"
+  },
+  "ID": 17,
+  "postal_code": 2700,
+  "name": "Brønshøj"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2862"
+  },
+  "ID": 18,
+  "postal_code": 2720,
+  "name": "Vanløse"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2863"
+  },
+  "ID": 19,
+  "postal_code": 2730,
+  "name": "Herlev"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2864"
+  },
+  "ID": 20,
+  "postal_code": 2740,
+  "name": "Skovlunde"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2865"
+  },
+  "ID": 21,
+  "postal_code": 2750,
+  "name": "Ballerup"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2866"
+  },
+  "ID": 22,
+  "postal_code": 2760,
+  "name": "Måløv"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2867"
+  },
+  "ID": 23,
+  "postal_code": 2765,
+  "name": "Smørum"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2868"
+  },
+  "ID": 24,
+  "postal_code": 2770,
+  "name": "Kastrup"
+},{
+  "_id": {
+    "$oid": "5fd29739bc4b7307ec5f2869"
+  },
+  "ID": 25,
+  "postal_code": 2791,
+  "name": "Dragør"
+}]
