@@ -28,9 +28,7 @@ public class Vehicle {
     private Make make;
     private Model model;
 
-    public Vehicle(String id, Long year, String colour, String fuelType,
-                   Long kms, Long hp, Long value, Integer available, Location location,
-                   User user, Make make, Model model) {
+    public Vehicle(String id, Long year, String colour, String fuelType, Long Kms, Long hp, Long value, Integer available, Location location, User user, Make make, Model model) {
         this.id = id;
         this.year = year;
         this.colour = colour;
@@ -44,5 +42,4 @@ public class Vehicle {
         this.make = make;
         this.model = model;
     }
-
 }

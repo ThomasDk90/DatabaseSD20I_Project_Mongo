@@ -52,6 +52,7 @@ public class VehicleController {
 
             return new ResponseEntity<>(vehicles, HttpStatus.OK);
         } catch (Exception e) {
+            System.out.println(e.getMessage());
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
