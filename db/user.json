@@ -7,7 +7,14 @@
   "rating": null,
   "password": "password1",
   "email": "barracuda@emailformat.com",
-  "location_ID": 1,
+  "location": {
+    "_id": {
+      "$oid": "5fd29739bc4b7307ec5f2851"
+    },
+    "ID": 1,
+    "postal_code": 2500,
+    "name": "Valby"
+  },
   "role_ID": 1,
   "order": [
     {
@@ -17,25 +24,11 @@
       "buyer_id": 1,
       "seller_id": 2,
       "vehicle_ID": 2,
-      "payment_type": [
+      "payment_type":
         {
           "ID": 1,
           "type": "CASH"
         },
-        {
-          "ID": 2,
-          "type": "MC"
-        },
-        {
-          "ID": 3,
-          "type": "visa"
-        },
-        {
-          "ID": 4,
-          "type": "AMEX"
-        }
-      ],
-      "payment_type_id": 1,
       "invoice": [
         {
           "ID": 1,

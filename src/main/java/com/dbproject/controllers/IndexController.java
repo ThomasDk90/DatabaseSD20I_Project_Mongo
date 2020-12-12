@@ -1,6 +1,7 @@
+/*
 package com.dbproject.controllers;
 
-import com.dbproject.entities.Users;
+import com.dbproject.model.User;
 
 import com.dbproject.repositories.UsersRepository;
 import com.dbproject.repositories.VehiclesRepository;
@@ -16,7 +17,7 @@ import java.security.Principal;
 public class IndexController {
 
     private String currentUserName;
-    private Users currentUser;
+    private User currentUser;
     private final VehiclesRepository vehiclesRepository;
     private final UsersRepository usersRepository;
 
@@ -33,13 +34,16 @@ public class IndexController {
 
         Principal principal = request.getUserPrincipal();
         currentUserName = principal.getName();
-/*        currentUser = usersRepository.findByUserName(currentUserName);*/
+*/
+/*        currentUser = usersRepository.findByUserName(currentUserName);*//*
+
         model.addAttribute("currentUser", currentUser);
 
         model.addAttribute("vehicles" , vehiclesRepository.findAll());
         return "carDealerView/carDealerView";
     }
 
+*/
 /*    @RequestMapping("/login")
     public String loginPage(){
         return "public/login";
@@ -48,5 +52,7 @@ public class IndexController {
     @RequestMapping("/logout")
     public String logoutPage(){
         return "public/logout";
-    }*/
+    }*//*
+
 }
+*/

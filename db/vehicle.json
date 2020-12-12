@@ -2,7 +2,6 @@
   "_id": {
     "$oid": "5fd2934cbc4b7307ec5f2845"
   },
-  "ID": 1,
   "year": 2011,
   "colour": "White",
   "fuel_type": "F",
@@ -18,7 +17,7 @@
   "_id": {
     "$oid": "5fd2934cbc4b7307ec5f2846"
   },
-  "ID": 2,
+
   "year": 2007,
   "colour": "Black",
   "fuel_type": "D",
@@ -34,7 +33,6 @@
   "_id": {
     "$oid": "5fd2934cbc4b7307ec5f2847"
   },
-  "ID": 3,
   "year": 1998,
   "colour": "Green",
   "fuel_type": "D",
@@ -50,7 +48,6 @@
   "_id": {
     "$oid": "5fd2934cbc4b7307ec5f2848"
   },
-  "ID": 4,
   "year": 2001,
   "colour": "Yellow",
   "fuel_type": "D",

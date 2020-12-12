@@ -2,31 +2,36 @@
   "_id": {
     "$oid": "5fd2b824bc4b7307ec5f286b"
   },
-  "ID": 1,
   "date": "2020-12-08",
   "value": 15000,
-  "buyer_id": 1,
-  "seller_id": 2,
-  "vehicle_ID": 2,
-  "payment_type": [
+  "buyer_id": {
+    "$oid": "5fd2967ebc4b7307ec5f284e"
+  },
+  "seller_id": {
+    "$oid": "5fd2967ebc4b7307ec5f284f"
+  },
+  "vehicle": {
+    "_id": {
+      "$oid": "5fd2934cbc4b7307ec5f2846"
+    },
+    "ID": 2,
+    "year": 2007,
+    "colour": "Black",
+    "fuel_type": "D",
+    "Kms": 199999,
+    "hp": 45,
+    "value": 15000,
+    "available": 1,
+    "location_id": 3,
+    "user_id": 2,
+    "model_ID": 444,
+    "make_ID": 22
+  },
+  "paymentType": 
     {
       "ID": 1,
       "type": "CASH"
     },
-    {
-      "ID": 2,
-      "type": "MC"
-    },
-    {
-      "ID": 3,
-      "type": "visa"
-    },
-    {
-      "ID": 4,
-      "type": "AMEX"
-    }
-  ],
-  "payment_type_id": 1,
   "invoice": [
     {
       "ID": 1,

@@ -1,18 +1,13 @@
+/*
 package com.dbproject.controllers;
 
-import com.dbproject.entities.Users;
-import com.dbproject.entities.Vehicle;
+import com.dbproject.model.Vehicle;
 import com.dbproject.repositories.*;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
-
-import javax.servlet.http.HttpServletRequest;
-import java.security.Principal;
 
 @Controller
 public class VehicleController {
@@ -61,7 +56,8 @@ public class VehicleController {
         return "vehicles/delCar";
     }
 
-  /*  @PostMapping("/saveVehicle")
+  */
+/*  @PostMapping("/saveVehicle")
     public String saveVehicle(@ModelAttribute("newVehicle") Vehicle vehicle, HttpServletRequest request){ //Model attribute bids the form data to the object
         //save vehicle to db
         Users user = retriveUser(request);
@@ -71,8 +67,10 @@ public class VehicleController {
 
         return "misc/Success";
 
-    }*/
+    }*//*
 
+
+*/
 /*
     public Users retriveUser(HttpServletRequest request) {
 
@@ -85,6 +83,8 @@ public class VehicleController {
         return currentUser;
 
     }
-*/
+*//*
+
 
 }
+*/

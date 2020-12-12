@@ -15,7 +15,7 @@
         <th>location</th>
     </tr>
     <tr th:each="user : ${users}">
-        <!--*/thymeVar id="user" type="com.dbproject.entities.Users"*-->
+        <!--*/thymeVar id="user" type="com.dbproject.model.User"*-->
         <td><a th:text="${user.id}" th:href="@{'/users/show/' + ${user.id}}">data.ID</a></td>
         <td th:text="${user.userName}"> DATA</td>
         <td th:text="${user.email}"> DATA</td>
