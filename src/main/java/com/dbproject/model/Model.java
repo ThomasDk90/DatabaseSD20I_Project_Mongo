@@ -20,8 +20,7 @@ public class Model {
     private String code;
     private Make make_id;
 
-    public Model(String id, Integer ID, String name, String code, Make make_id) {
-        this.id = id;
+    public Model(Integer ID, String name, String code, Make make_id) {
         this.name = name;
         this.code = code;
         this.make_id = make_id;

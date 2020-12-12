@@ -21,8 +21,7 @@ public class Make {
 
 
 
-    public Make(String id, String name, String code) {
-        this.id = id;
+    public Make(String name, String code) {
         this.name = name;
         this.code = code;
     }

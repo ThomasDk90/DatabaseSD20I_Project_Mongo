@@ -25,8 +25,7 @@ public class User {
     private Collection<Order> orders;
 
 
-    public User(String id, String user_name, Integer rating, String password, Location location, Role role, String email, Collection<Order> orders) {
-        this.id = id;
+    public User(String user_name, Integer rating, String password, Location location, Role role, String email, Collection<Order> orders) {
         this.user_name = user_name;
         this.rating = rating;
         this.password = password;

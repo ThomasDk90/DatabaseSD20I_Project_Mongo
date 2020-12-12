@@ -28,8 +28,7 @@ public class Vehicle {
     private Make make;
     private Model model;
 
-    public Vehicle(String id, Long year, String colour, String fuelType, Long Kms, Long hp, Long value, Integer available, Location location, User user, Make make, Model model) {
-        this.id = id;
+    public Vehicle(Long year, String colour, String fuelType, Long Kms, Long hp, Long value, Integer available, Location location, User user, Make make, Model model) {
         this.year = year;
         this.colour = colour;
         this.fuelType = fuelType;

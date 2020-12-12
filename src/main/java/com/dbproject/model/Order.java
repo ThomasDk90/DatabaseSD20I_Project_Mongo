@@ -27,8 +27,7 @@ public class Order {
     private Collection<Invoice> invoices;
 
 
-    public Order(String id, Date date, Long value, User buyer_id, User seller_id, Vehicle vehicle, PaymentType paymentType,Collection<Invoice> invoices) {
-        this.id = id;
+    public Order(Date date, Long value, User buyer_id, User seller_id, Vehicle vehicle, PaymentType paymentType,Collection<Invoice> invoices) {
         this.date = date;
         this.value = value;
         this.buyer_id = buyer_id;
