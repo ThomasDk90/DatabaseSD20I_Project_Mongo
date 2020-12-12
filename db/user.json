@@ -1,17 +1,9 @@
 [{
-  "_id": {
-    "$oid": "5fd2967ebc4b7307ec5f284e"
-  },
-  "ID": 1,
   "user_name": "barracuda",
   "rating": null,
   "password": "password1",
   "email": "barracuda@emailformat.com",
   "location": {
-    "_id": {
-      "$oid": "5fd29739bc4b7307ec5f2851"
-    },
-    "ID": 1,
     "postal_code": 2500,
     "name": "Valby"
   },

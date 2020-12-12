@@ -16,7 +16,6 @@ public class Make {
 
     @Id
     private String id;
-    private Integer ID;
     private String code;
     private String name;
 
@@ -24,7 +23,6 @@ public class Make {
 
     public Make(String id, Integer ID, String name, String code) {
         this.id = id;
-        this.ID = ID;
         this.name = name;
         this.code = code;
     }

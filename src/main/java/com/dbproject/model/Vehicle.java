@@ -15,12 +15,11 @@ import java.util.Objects;
 public class Vehicle {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private String id;
     private Long year;
     private String colour;
     private String fuelType;
-    private Long kms;
+    private Long Kms;
     private Long hp;
     private Long value;
     private Integer available = 1;
@@ -36,7 +35,7 @@ public class Vehicle {
         this.year = year;
         this.colour = colour;
         this.fuelType = fuelType;
-        this.kms = kms;
+        this.Kms = Kms;
         this.hp = hp;
         this.value = value;
         this.available = available;
@@ -45,7 +44,5 @@ public class Vehicle {
         this.make = make;
         this.model = model;
     }
-
-
 
 }

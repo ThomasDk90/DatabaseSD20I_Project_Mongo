@@ -1,10 +1,7 @@
 [{
-  "_id": {
-    "$oid": "5fd2934cbc4b7307ec5f2845"
-  },
-  "year": 2011,
+ "year": 2011,
   "colour": "White",
-  "fuel_type": "F",
+  "fuelType": "F",
   "Kms": 20000,
   "hp": 76,
   "value": 25000,
@@ -14,13 +11,9 @@
   "model_ID": 123,
   "make_ID": 8
 },{
-  "_id": {
-    "$oid": "5fd2934cbc4b7307ec5f2846"
-  },
-
   "year": 2007,
   "colour": "Black",
-  "fuel_type": "D",
+  "fuelType": "D",
   "Kms": 199999,
   "hp": 45,
   "value": 15000,
@@ -30,12 +23,9 @@
   "model_ID": 444,
   "make_ID": 22
 },{
-  "_id": {
-    "$oid": "5fd2934cbc4b7307ec5f2847"
-  },
   "year": 1998,
   "colour": "Green",
-  "fuel_type": "D",
+  "fuelType": "D",
   "Kms": 35999,
   "hp": 67,
   "value": 25000,
@@ -45,12 +35,9 @@
   "model_ID": 23,
   "make_ID": 1
 },{
-  "_id": {
-    "$oid": "5fd2934cbc4b7307ec5f2848"
-  },
   "year": 2001,
   "colour": "Yellow",
-  "fuel_type": "D",
+  "fuelType": "D",
   "Kms": 45999,
   "hp": 45,
   "value": 24000,

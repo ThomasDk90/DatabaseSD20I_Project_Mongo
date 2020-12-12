@@ -1,90 +1,68 @@
-/*
 package com.dbproject.controllers;
 
+import com.dbproject.model.User;
 import com.dbproject.model.Vehicle;
 import com.dbproject.repositories.*;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.*;
 
-@Controller
+import java.util.ArrayList;
+import java.util.List;
+
+@CrossOrigin(origins = "http://localhost:8080")
+@RestController
+@RequestMapping("/api")
 public class VehicleController {
+    @Autowired
+    UsersRepository usersRepository;
 
-    private final UsersRepository usersRepository;
+    @Autowired
+    LocationRepository locationRepository;
 
-    private final VehiclesRepository vehiclesRepository;
-    private final LocationRepository locationRepository;
-    private final ModelRepository modelRepository;
-    private final MakeRepository makeRepository;
+    @Autowired
+    ModelRepository modelRepository;
 
-    public VehicleController(UsersRepository usersRepository, VehiclesRepository vehiclesRepository, LocationRepository locationRepository, ModelRepository modelRepository, MakeRepository makeRepository) {
+    @Autowired
+    VehiclesRepository vehiclesRepository;
+    @Autowired
+    MakeRepository makeRepository;
+
+
+/*    public VehicleController(UsersRepository usersRepository, VehiclesRepository vehiclesRepository, LocationRepository locationRepository, ModelRepository modelRepository, MakeRepository makeRepository) {
         this.usersRepository = usersRepository;
         this.vehiclesRepository = vehiclesRepository;
         this.locationRepository = locationRepository;
         this.modelRepository = modelRepository;
         this.makeRepository = makeRepository;
-    }
+    }*/
 
-    @RequestMapping({"/vehicles","/vehicles/index.html","/vehicles/index"})
-    public String getVehicleList(Model model){
-
-        model.addAttribute("vehicles", vehiclesRepository.findAll());
-        return "vehicles/newVehicle";
-    }
-
-    @RequestMapping({"/newVehicle","/newVehicle/index.html","/newVehicle/index"})
-    public String newVehicle(Model model){
-        Vehicle vehicle = new Vehicle();
-        model.addAttribute("newVehicle", vehicle);
-        model.addAttribute("locations", locationRepository.findAll());
-        model.addAttribute("models", modelRepository.findAll());
-        model.addAttribute("makes", makeRepository.findAll());
-        return "/vehicles/newVehicle";
-    }
-
-    @RequestMapping("/vehicle/delete/{id}")
-    public String delVehicle(@PathVariable Long id){
-
+    @GetMapping("/vehicle")
+    public ResponseEntity<List<Vehicle>> getAllVehicles() {
         try {
-            vehiclesRepository.deleteById(id);
+            List<Vehicle> vehicles = new ArrayList<>();
+            vehicles.addAll(vehiclesRepository.findAll());
+            if (vehicles.isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+
+            return new ResponseEntity<>(vehicles, HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
-        catch (DataIntegrityViolationException e) {
-            return "misc/dataIntegrityMessage";
+    }
+    @PostMapping("/vehicle")
+    public ResponseEntity<Vehicle> createUser(@RequestBody Vehicle vehicle) {
+      try {
+          Vehicle vehicleSaved = vehiclesRepository.save(vehicle);
+            return new ResponseEntity<>(vehicleSaved, HttpStatus.CREATED);
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
-        return "vehicles/delCar";
     }
-
-  */
-/*  @PostMapping("/saveVehicle")
-    public String saveVehicle(@ModelAttribute("newVehicle") Vehicle vehicle, HttpServletRequest request){ //Model attribute bids the form data to the object
-        //save vehicle to db
-        Users user = retriveUser(request);
-        vehicle.setUser(user);
-        //vehicle.setAvailable(1);
-        vehiclesRepository.save(vehicle);
-
-        return "misc/Success";
-
-    }*//*
-
-
-*/
-/*
-    public Users retriveUser(HttpServletRequest request) {
-
-        String currentUserName;
-        Users currentUser;
-        Principal principal = request.getUserPrincipal();
-        currentUserName = principal.getName();
-        currentUser = usersRepository.findByUserName(currentUserName);
-
-        return currentUser;
-
-    }
-*//*
-
 
 }
-*/
