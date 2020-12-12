@@ -22,13 +22,9 @@ public class Order {
     private Integer ID;
     private Date date;
     private Long value;
-/*    private Integer buyer_id;
-    private Integer seller_id;*/
     private Users buyer_id;
     private Users seller_id;
-/*    private Integer vehicle_ID;*/
     private Vehicle vehicle_ID;
-
 
     public Order(String id, Integer ID, Date date, Long value, Users buyer_id, Users seller_id, Vehicle vehicle_ID) {
         this.id = id;
