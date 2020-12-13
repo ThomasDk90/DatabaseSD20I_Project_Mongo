@@ -20,8 +20,8 @@ public class Order {
     private String id;
     private Date date;
     private Long value;
-    private User buyer_id;
-    private User seller_id;
+    private User buyer;
+    private User seller;
     private Vehicle vehicle;
     private PaymentType paymentType;
     private Collection<Invoice> invoices;
@@ -30,8 +30,8 @@ public class Order {
     public Order(Date date, Long value, User buyer_id, User seller_id, Vehicle vehicle, PaymentType paymentType,Collection<Invoice> invoices) {
         this.date = date;
         this.value = value;
-        this.buyer_id = buyer_id;
-        this.seller_id = seller_id;
+        this.buyer = buyer_id;
+        this.seller = seller_id;
         this.paymentType = paymentType;
         this.vehicle = vehicle;
         this.invoices = invoices;

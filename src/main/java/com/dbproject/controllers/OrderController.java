@@ -1,12 +1,15 @@
 package com.dbproject.controllers;
 
 import com.dbproject.model.Order;
+import com.dbproject.model.PaymentType;
 import com.dbproject.model.User;
 import com.dbproject.model.Vehicle;
 import com.dbproject.repositories.OrderRepository;
+import com.dbproject.repositories.PaymentTypeRepository;
 import com.dbproject.repositories.UsersRepository;
 import com.dbproject.repositories.VehiclesRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -28,6 +31,8 @@ public class OrderController {
     VehiclesRepository vehiclesRepository;
     @Autowired
     UsersRepository usersRepository;
+    @Autowired
+    PaymentTypeRepository paymentTypeRepository;
 
     @GetMapping("/orders")
     public ResponseEntity<List<Order>> getAllOrders() {
@@ -46,8 +51,24 @@ public class OrderController {
     }
 
     @PostMapping("/orders")
-    public ResponseEntity<Order> createOrder(@RequestBody Order order) {
+    public ResponseEntity<Order> createOrder(@RequestBody Order order,
+                                             @Param("buyerID") String buyerID,
+                                             @Param("selleID") String sellerID,
+                                             @Param("paymentID") String paymentID,
+                                             @Param("vehicleID") String vehicleID) {
         try {
+
+            //fill the missing fields with embedded objects
+            User tempUser = usersRepository.findById(buyerID).get();
+            order.setBuyer(tempUser);
+            tempUser = usersRepository.findById(sellerID).get();
+            order.setSeller(tempUser);
+            Vehicle vehicle = vehiclesRepository.findById(vehicleID).get();
+            order.setValue(vehicle.getValue());
+            order.setVehicle(vehicle);
+            PaymentType paymentType = paymentTypeRepository.findById(paymentID).get();
+            order.setPaymentType(paymentType);
+
             Order orderSaved = orderRepository.save(order);
             return new ResponseEntity<>(orderSaved, HttpStatus.CREATED);
         } catch (Exception e) {
