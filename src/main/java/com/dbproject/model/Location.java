@@ -17,11 +17,11 @@ public class Location {
     @Id
     private String id;
     private String name;
-    private Integer postalCode;
+    private Integer postal_code;
 
-    public Location(String name, Integer postalCode) {
+    public Location(String name, Integer postal_code) {
         this.name = name;
-        this.postalCode = postalCode;
+        this.postal_code = postal_code;
     }
 }
 

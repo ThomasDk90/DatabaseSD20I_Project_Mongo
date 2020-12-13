@@ -16,12 +16,10 @@ public class Invoice {
     private Long ID;
     private Date date;
     private Long amount;
-    private String detail;
 
     public Invoice(Long ID, Date date, Long amount, String detail) {
         this.ID = ID;
         this.date = date;
         this.amount = amount;
-        this.detail = detail;
     }
 }

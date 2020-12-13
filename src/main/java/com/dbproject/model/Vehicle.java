@@ -19,7 +19,7 @@ public class Vehicle {
     private Long year;
     private String colour;
     private String fuelType;
-    private Long Kms;
+    private Long kms;
     private Long hp;
     private Long value;
     private Integer available = 1;
@@ -28,11 +28,11 @@ public class Vehicle {
     private Make make;
     private Model model;
 
-    public Vehicle(Long year, String colour, String fuelType, Long Kms, Long hp, Long value, Integer available, Location location, User user, Make make, Model model) {
+    public Vehicle(Long year, String colour, String fuelType, Long kms, Long hp, Long value, Integer available, Location location, User user, Make make, Model model) {
         this.year = year;
         this.colour = colour;
         this.fuelType = fuelType;
-        this.Kms = Kms;
+        this.kms = kms;
         this.hp = hp;
         this.value = value;
         this.available = available;

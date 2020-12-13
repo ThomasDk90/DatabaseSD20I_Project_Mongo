@@ -20,10 +20,10 @@ public class Model {
     private String code;
     private Make make_id;
 
-    public Model(String name, String code, Make make_id) {
+    public Model(String name, String code) {
         this.name = name;
         this.code = code;
-        this.make_id = make_id;
+
     }
 
 

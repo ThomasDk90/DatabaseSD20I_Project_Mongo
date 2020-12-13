@@ -1,0 +1,20 @@
+{
+  "id": "5fd6425e52be1e1fc60e7b91",
+  "user_name": "testUser",
+  "rating": null,
+  "password": "testPass",
+  "email": "test@email.dk",
+  "location": {
+    "id": "5fd53e7bf07d9022ec6b78cc",
+    "name": "Valby",
+    "postal_code": 2500
+  },
+  "role": {
+    "id": "5fd294a9bc4b7307ec5f284c",
+    "name": "USER"
+  },
+  "orders": null
+}
+
+
+
