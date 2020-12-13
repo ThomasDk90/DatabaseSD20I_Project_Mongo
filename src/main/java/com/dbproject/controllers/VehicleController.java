@@ -1,14 +1,10 @@
 package com.dbproject.controllers;
 
-import com.dbproject.model.User;
-import com.dbproject.model.Vehicle;
+import com.dbproject.model.*;
 import com.dbproject.repositories.*;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
@@ -56,10 +52,25 @@ public class VehicleController {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
-    @PostMapping("/vehicle")
-    public ResponseEntity<Vehicle> createUser(@RequestBody Vehicle vehicle) {
-      try {
-          Vehicle vehicleSaved = vehiclesRepository.save(vehicle);
+    @RequestMapping(value = "/vehicle/show", method = RequestMethod.POST)
+    public ResponseEntity<Vehicle> createUser(@RequestParam("locationID") String locationID,
+                                              @RequestParam("uID") String uID,
+                                              @RequestParam("makeID") String makeID,
+                                              @RequestParam("modelID") String modelID,
+                                              @RequestBody Vehicle vehicle ) {
+
+        try {
+            User user = usersRepository.findById(uID).get();
+            Location location = locationRepository.findById(locationID).get();
+            Model model = modelRepository.findById(modelID).get();
+            Make make = makeRepository.findById(makeID).get();
+
+            vehicle.setUser(user);
+            vehicle.setLocation(location);
+            vehicle.setMake(make);
+            vehicle.setModel(model);
+
+            Vehicle vehicleSaved = vehiclesRepository.save(vehicle);
             return new ResponseEntity<>(vehicleSaved, HttpStatus.CREATED);
         } catch (Exception e) {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
