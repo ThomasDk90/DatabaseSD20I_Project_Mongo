@@ -1,29 +1,23 @@
 package com.dbproject.model;
 
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+import org.springframework.data.mongodb.core.mapping.Document;
+
 import javax.persistence.*;
 
-@Entity
-@Table(name = "roles")
+@Getter
+@Setter
+@ToString
+@Document(collection = "roles")
 public class Role {
-
-    @Id
-    @Column(name = "id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id;
-
+    @Id
+    private String id;
     private String name;
-    public Integer getId() {
-        return id;
-    }
-    public void setId(Integer id) {
+    public Role(String id, String name) {
         this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
         this.name = name;
     }
 }
