@@ -61,10 +61,10 @@ public class OrderController {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
-    @PostMapping("/orders")
+    @PostMapping("/orders/saveOrder")
     public ResponseEntity<Order> createOrder(@RequestBody Order order,
                                              @Param("buyerID") String buyerID,
-                                             @Param("selleID") String sellerID,
+                                             @Param("sellerID") String sellerID,
                                              @Param("paymentID") String paymentID,
                                              @Param("vehicleID") String vehicleID) {
         try {
