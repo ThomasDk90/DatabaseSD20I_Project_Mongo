@@ -2,9 +2,11 @@ package com.dbproject.repositories;
 
 import com.dbproject.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.data.mongodb.repository.Query;
+import org.springframework.data.repository.query.Param;
 
 public interface UsersRepository extends MongoRepository<User, String> {
 
-    /*@Query("SELECT u FROM  Users u WHERE u.userName = :username")
-    Users findByUserName(@Param("username") String userName); //defines a list of Users with the same name*/
+    @Query("{'user_name': ?0}")
+    User findByUserName(String userName); //defines a list of Users with the same name*/
 }
