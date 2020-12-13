@@ -3,7 +3,6 @@ package com.dbproject.repositories;
 import com.dbproject.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
-import org.springframework.data.repository.query.Param;
 
 public interface UsersRepository extends MongoRepository<User, String> {
 
