@@ -53,11 +53,11 @@ public class VehicleController {
         }
     }
     @RequestMapping(value = "/vehicle/show", method = RequestMethod.POST)
-    public ResponseEntity<Vehicle> createUser(@RequestParam("locationID") String locationID,
-                                              @RequestParam("uID") String uID,
-                                              @RequestParam("makeID") String makeID,
-                                              @RequestParam("modelID") String modelID,
-                                              @RequestBody Vehicle vehicle ) {
+    public ResponseEntity<Vehicle> createVehicle(@RequestParam("locationID") String locationID,
+                                                 @RequestParam("uID") String uID,
+                                                 @RequestParam("makeID") String makeID,
+                                                 @RequestParam("modelID") String modelID,
+                                                 @RequestBody Vehicle vehicle ) {
 
         try {
             User user = usersRepository.findById(uID).get();
