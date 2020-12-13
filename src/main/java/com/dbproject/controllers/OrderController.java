@@ -34,7 +34,7 @@ public class OrderController {
     @Autowired
     PaymentTypeRepository paymentTypeRepository;
 
-    @GetMapping("/orders")
+    @GetMapping("/orders/showAll")
     public ResponseEntity<List<Order>> getAllOrders() {
         try {
             List<Order> orders = new ArrayList<Order>();
@@ -46,10 +46,21 @@ public class OrderController {
 
             return new ResponseEntity<>(orders, HttpStatus.OK);
         } catch (Exception e) {
+            System.out.println(e.getMessage());
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
 
+    @GetMapping("/orders/show")
+    public ResponseEntity<Order> getOrderByID(@Param("orderID") String orderID) {
+        try {
+            Order orders = orderRepository.findById(orderID).get();
+            return new ResponseEntity<>(orders, HttpStatus.OK);
+
+        } catch (Exception e) {
+            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
     @PostMapping("/orders")
     public ResponseEntity<Order> createOrder(@RequestBody Order order,
                                              @Param("buyerID") String buyerID,
@@ -60,9 +71,9 @@ public class OrderController {
 
             //fill the missing fields with embedded objects
             User tempUser = usersRepository.findById(buyerID).get();
-            order.setBuyer(tempUser);
+            order.setBuyer_id(tempUser);
             tempUser = usersRepository.findById(sellerID).get();
-            order.setSeller(tempUser);
+            order.setSeller_id(tempUser);
             Vehicle vehicle = vehiclesRepository.findById(vehicleID).get();
             order.setValue(vehicle.getValue());
             order.setVehicle(vehicle);
@@ -72,6 +83,7 @@ public class OrderController {
             Order orderSaved = orderRepository.save(order);
             return new ResponseEntity<>(orderSaved, HttpStatus.CREATED);
         } catch (Exception e) {
+            System.out.println(e.getMessage());
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
